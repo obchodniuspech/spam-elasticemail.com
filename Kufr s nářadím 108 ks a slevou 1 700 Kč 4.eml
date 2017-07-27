@@ -1,0 +1,845 @@
+Return-Path: <0102015b8ea8bf4a-0eca9852-6795-483b-b46d-4572761df864-000000@eu-west-1.amazonses.com>
+Delivered-To: michal@obchodniuspech.cz
+Received: from mx.mastered-monkey.com (mail.mastered-monkey.com [127.0.0.1])
+	by mx.mastered-monkey.com (Postfix) with ESMTP id 52CA450FB7
+	for <michal@obchodniuspech.cz>; Fri, 21 Apr 2017 05:58:16 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mx.mastered-monkey.com
+Authentication-Results: mx.mastered-monkey.com (amavisd-new);
+	dkim=pass (1024-bit key) header.d=trezory.pro header.b=hrUI/J+D;
+	dkim=pass (1024-bit key) header.d=amazonses.com header.b=czfRHjZ7
+Received: from mx.mastered-monkey.com ([127.0.0.1])
+	by mx.mastered-monkey.com (mx.mastered-monkey.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2FfXwvJ5fh3N for <michal@obchodniuspech.cz>;
+	Fri, 21 Apr 2017 05:57:57 +0200 (CEST)
+Received: from a6-79.smtp-out.eu-west-1.amazonses.com (a6-79.smtp-out.eu-west-1.amazonses.com [54.240.6.79])
+	by mx.mastered-monkey.com (Postfix) with ESMTPS id 1647750FB6
+	for <michal@obchodniuspech.cz>; Fri, 21 Apr 2017 05:57:56 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=idkma27dpi26fc4mi6e5s6cqwitsdu65; d=trezory.pro; t=1492747075;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type;
+	bh=Qpyzl0UufcHfn2ibRf7p2ylPOtYC6MGTGMgF1gGqyx0=;
+	b=hrUI/J+DDnGDVlSDjDV3qNNiMaOgLUMRJ6ZFlDFNU4UD+6VmbMm5k/qvbaujZl/9
+	czWtCKBzV8VbHdS5TgdKR+r7dIK0YDUcx9r9vHSaFRgB2NYDwa9t6tcX76hdLRqrWal
+	QU+wxlzOn2LSN4mNWbREfE46DIAiJSTps5ShYMuo=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1492747075;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:Feedback-ID;
+	bh=Qpyzl0UufcHfn2ibRf7p2ylPOtYC6MGTGMgF1gGqyx0=;
+	b=czfRHjZ7661sSP3wcVY5axMAS88XuY0qerFWbbtfdr2v6QPTwjSTJTbKTu4X27I0
+	jUmdvLpGO1+jFJQwbGtWBil5ZlfGbdQab4+md/fF6ysuwfIDm2+Px6UoYkgeGqKiNX4
+	Ia80rPsxdoKcYdzJKTxNCCLVHwINAAw+NSJdJENI=
+Message-ID: <0102015b8ea8bf4a-0eca9852-6795-483b-b46d-4572761df864-000000@eu-west-1.amazonses.com>
+Date: Fri, 21 Apr 2017 03:57:55 +0000
+Subject: Kufr s =?utf-8?Q?n=C3=A1=C5=99ad=C3=ADm?= 108 ks a slevou 1 700
+ =?utf-8?Q?K=C4=8D?=
+From: =?utf-8?Q?P=C5=99=C3=ADmo?= od =?utf-8?Q?v=C3=BDrobce?=
+ <malota@trezory.pro>
+Reply-To: =?utf-8?Q?P=C5=99=C3=ADmo?= od =?utf-8?Q?v=C3=BDrobce?=
+ <malota@trezory.pro>
+To: "michal@obchodniuspech.cz" <michal@obchodniuspech.cz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1492747075_a6418b3f7596f9d888d82f221d42cbf0_=_"
+X-Sender: malota@trezory.pro
+X-Receiver: michal@obchodniuspech.cz
+X-Mw-Subscriber-Uid: az0336gz3937d
+X-Mw-Mailer: SwiftMailer - @SWIFT_VERSION_NUMBER@
+X-Mw-Campaign-Uid: zq579r9gdqc44
+X-SES-Outgoing: 2017.04.21-54.240.6.79
+Feedback-ID: 1.eu-west-1.AuUj8PXgNNllhZIHK1m3NmQDOw3p3uI2lVD1UHbdU4w=:AmazonSES
+
+
+--_=_swift_v4_1492747075_a6418b3f7596f9d888d82f221d42cbf0_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+ Kufr se 108 ks n=C3=A1=C5=99ad=C3=AD=20
+
+=09=09 http://www.pwrwor=
+k.cz/detail/kufr-s-naradim-108-nastroju-78314/=20
+
+ KUFR SE 108 KS N=
+=C3=81=C5=98AD=C3=8D
+HTTP://WWW.PWRWORK.CZ/DETAIL/KUFR-S-NARADIM-108-NAST=
+ROJU-78314/=C2=A0=20
+
+ P=C5=99=C3=ADmo od v=C3=BDrobce a se slevou 1 700 =
+K=C4=8D=20
+
+=09=09 http://www.pwrwork.cz/detail/kufr-s-naradim-108-nastro=
+ju-78314/=20
+
+ Kompletn=C3=AD a praktick=C3=BD kufr s v=C3=ADce ne=C5=
+=BE 100 kusy n=C3=A1=C5=99ad=C3=AD=20
+
+ sleva 1 700 K=C4=8D ZDE
+http://=
+www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/=20
+
+=09* OBSAHUJ=
+E
+http://www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/:=20
+ =
+=09* 12 imbusov=C3=BDch kl=C3=AD=C4=8D=C5=AF=20
+ =09* Velk=C3=BD k=C5=99=
+=C3=AD=C5=BEov=C3=BD =C5=A1roubov=C3=A1k Phillips s magnetick=C3=BDm hrotem=
+=20
+ =09* Velk=C3=BD ploch=C3=BD =C5=A1roubov=C3=A1k s magnetick=C3=BDm hro=
+tem=20
+ =09* Mal=C3=BD k=C5=99=C3=AD=C5=BEov=C3=BD =C5=A1roubov=C3=A1k Phil=
+lips=20
+ =09* Mal=C3=BD ploch=C3=BD =C5=A1roubov=C3=A1k=20
+ =09* Zkou=C5=
+=A1e=C4=8Dka nap=C4=9Bt=C3=AD=20
+ =09* Kloubov=C3=A9 n=C5=AF=C5=BEky na ple=
+ch a dr=C3=A1ty=20
+ =09* Pilka na =C5=BEelezo 9''=20
+ =09* Role lepic=C3=
+=AD p=C3=A1sky=20
+ =09* Francouzsk=C3=BD kl=C3=AD=C4=8D 8"=20
+ =09* Kle=
+=C5=A1t=C4=9B 10''=20
+ =09* Kombinovan=C3=A9 kle=C5=A1t=C4=9B 6''=20
+ =09* =
+Jehlov=C3=A9 kle=C5=A1t=C4=9B rovn=C3=A9 6''=20
+ =09* Svinovac=C3=AD metr s=
+ brzdou (3m)=20
+ =09* =C5=A0estihrann=C3=BD magnetick=C3=BD =C5=A1roubov=
+=C3=A1k=20
+ =09* 20 =C5=A1roubovac=C3=ADch bit=C5=AF=20
+ =09* L=C3=A1mac=
+=C3=AD n=C5=AF=C5=BE=20
+ =09* Kladivo=20
+ =09* =C5=A0rouby, h=C5=99eb=C3=
+=ADky a matky=20
+ =09* Plastov=C3=BD kufr na n=C3=A1=C5=99ad=C3=AD (cca 37 =
+x 27 x 8 cm)=20
+
+=09=09 http://www.pwrwork.cz/detail/kufr-s-naradim-108-n=
+astroju-78314/=20
+
+=09=09 Objedn=C3=A1vejte zde
+http://www.pwrwork.cz/d=
+etail/kufr-s-naradim-108-nastroju-78314/=20
+
+=09=09 http://www.pwrwork.cz=
+/detail/kufr-s-naradim-108-nastroju-78314/=20
+
+=09=09 http://www.pwrwork.=
+cz/detail/kufr-s-naradim-108-nastroju-78314/=20
+
+=09=09 Objedn=C3=A1vejte=
+ zde
+http://www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/=20
+=
+
+ Toto directmarketingov=C3=A9 sd=C4=9Blen=C3=AD bylo zasl=C3=A1no dle z=
+=C3=A1kona 480/2004
+Sb. marketingovou agenturou
+ GlobalAdvertisement, s=
+.r.o. se s=C3=ADdlem n=C3=A1m=C4=9Bst=C3=AD P=C5=99=C3=A1telstv=C3=AD
+151=
+8/2, Hostiva=C5=99, 102 00, Praha 10, I=C4=8C: 253 34 697. Nep=C5=99ejte-li=
+ si
+nad=C3=A1le dost=C3=A1vat tyto zpr=C3=A1vy a zv=C3=BDhodn=C4=9Bn=
+=C3=A9 nab=C3=ADdky p=C5=99=C3=ADmo pro
+V=C3=A1s,m=C5=AF=C5=BEete se bezp=
+e=C4=8Dn=C4=9B odhl=C3=A1sit zde
+https://easymailjet.com/index.php/lists/=
+eq507becjw2c8/unsubscribe/az0336gz3937d/zq579r9gdqc44/unsubscribe-direct
+=
+
+
+=20
+
+--_=_swift_v4_1492747075_a6418b3f7596f9d888d82f221d42cbf0_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xht=
+ml" style=3D""><head><meta name=3D"viewport" content=3D"width=3Ddevice-widt=
+h"><meta name=3D"charset" content=3D"utf-8">
+<style type=3D"text/css">
+=
+/**/
+    /**/
+    body, html {
+      width: 100% !important;
+      =
+margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;=
+
+      -webkit-text-size-adjust: none;
+      -ms-text-size-adjust: 100%=
+;
+    }
+      table td, table {
+        mso-table-lspace: 0pt;
+    =
+    mso-table-rspace: 0pt;
+      }
+      #outlook a {
+        padding=
+: 0;
+      }
+      .ExternalClass, .ExternalClass p, .ExternalClass spa=
+n, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        l=
+ine-height: 100%;
+      }
+      .ExternalClass {
+        width: 100%;=
+
+      }
+      @media only screen and (max-width: 480px) {
+        ta=
+ble, table tr td, table td {
+          width: 100% !important;
+        =
+}
+        img {
+          width: inherit;
+        }
+        .layer_=
+2 {
+          max-width: 100% !important;
+        }
+      }
+    /*]=
+]>*/
+    /*]]>*/
+</style>
+<title></title></head><body style=3D"paddin=
+g: 0px; margin: 0px;">
+
+            <table align=3D"center" style=3D"wi=
+dth:100%;height:100%;background-color:#3b3b3b;"><tbody><tr><td id=3D"dbody"=
+ style=3D"padding-top:15px;padding-bottom:15px;width:100%;background-color:=
+#3b3b3b;" valign=3D"top">
+            <!--[if (gte mso 9)|(IE)]><table st=
+yle=3D"width:600px" width=3D"600" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tr><td><![endif]-->
+            <table align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"layer_1"=
+ style=3D"max-width:600px;width:100%;border:#854444;"><tbody><tr><td align=
+=3D"center" class=3D"drow" style=3D"font-size:0px;background-color:#3b3b3b;=
+" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><table wi=
+dth=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" style=
+=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-=
+width:598px;">
+                      <table border=3D"0" cellpadding=3D"4=
+" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;w=
+idth:100%;"><tbody><tr><td class=3D"edtext" style=3D"color:#8b8b8b;font-siz=
+e:12px;font-family:Tahoma, Geneva, sans-serif;text-align:left;" valign=3D"t=
+op">
+                              <p style=3D"margin:0px;padding:0px;">=
+
+                                &nbsp;
+                              <=
+/p>
+                              <p style=3D"margin:0px;padding:0px;">=
+
+                                &nbsp;
+                              <=
+/p>
+                              <p style=3D"margin:0px;padding:0px;text=
+-align:left;font-size:10px;">
+                                Kufr se 108=
+ ks n&aacute;&#345;ad&iacute;&nbsp;
+                              </p>
+=
+                            </td>
+                          </tr></tbody>=
+</table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+  =
+                </td>
+                </tr><tr><td align=3D"center" class=
+=3D"drow" style=3D"font-size:0px;background-color:#3b3b3b;" valign=3D"top">=
+
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![en=
+dif]-->
+                    <div class=3D"layer_2" style=3D"width:100%;di=
+splay:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+=
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"><tbod=
+y><tr><td class=3D"edimg" style=3D"text-align:center;" valign=3D"top">
+  =
+                            <a href=3D"http://www.pwrwork.cz/detail/kufr-s-=
+naradim-108-nastroju-78314/" style=3D"color:#27272f;font-size:12px;font-fam=
+ily:'Courier New', Courier, monospace;text-decoration:none;"><img alt=3D"N&=
+aacute;&#345;ad&iacute; p&#345;&iacute;mo od v&yacute;robce" src=3D"https:/=
+/api.elasticemail.com/userfile/6825c7f2-1363-466e-a4b7-9293b5d85d5f/pwr1.jp=
+g" style=3D"border-width:0px;border-style:none;max-width:598px;width:100%;"=
+ width=3D"598"></a>
+                            </td>
+                 =
+         </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td></tr></t=
+able><![endif]-->
+                  </td>
+                </tr><tr><td =
+align=3D"center" class=3D"drow" style=3D"font-size:0px;background-color:#f7=
+c532;" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><tab=
+le width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" =
+style=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto=
+;max-width:598px;">
+                      <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:colla=
+pse;width:100%;"><tbody><tr><td class=3D"edtext" style=3D"color:#8b8b8b;fon=
+t-size:12px;font-family:Tahoma, Geneva, sans-serif;text-align:left;" valign=
+=3D"top">
+                              <div class=3D"edit" style=3D"disp=
+lay:block;">
+                                &nbsp;
+                   =
+           </div>
+                            </td>
+                   =
+       </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td></tr></tab=
+le><![endif]-->
+                  </td>
+                </tr><tr><td al=
+ign=3D"center" class=3D"drow" style=3D"font-size:0px;background-color:#3b3b=
+3b;" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><table=
+ width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" st=
+yle=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto;m=
+ax-width:598px;">
+                      <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:colla=
+pse;width:100%;"><tbody><tr><td class=3D"edimg" style=3D"text-align:center;=
+" valign=3D"top">
+                              <img alt=3D"Obraz" src=3D=
+"https://api.elasticemail.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488=
+/Untitled-1_16.png" style=3D"border-width:0px;border-style:none;max-width:5=
+98px;width:100%;" width=3D"598"></td>
+                          </tr></tb=
+ody></table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->=
+
+                  </td>
+                </tr><tr><td align=3D"center" =
+class=3D"drow" style=3D"font-size:0px;background-color:#f7c532;" valign=3D"=
+top">
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td>=
+<![endif]-->
+                    <div class=3D"layer_2" style=3D"width:10=
+0%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;=
+">
+                      <table border=3D"0" cellpadding=3D"32" cellspaci=
+ng=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"=
+><tbody><tr><td class=3D"edtext" style=3D"color:#8b8b8b;font-size:12px;font=
+-family:Tahoma, Geneva, sans-serif;text-align:left;" valign=3D"top">
+    =
+                          <p class=3D"style2" style=3D"margin:0px;padding:0=
+px;color:#3e3e3e;font-size:32px;font-family:'Courier New', Courier, monospa=
+ce;text-align:center;">
+                                <strong><a href=
+=3D"http://www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/" style=
+=3D"color:#27272f;font-size:12px;font-family:'Courier New', Courier, monosp=
+ace;text-decoration:none;"><span style=3D"font-size:24px;">Kufr se 108 ks=
+
+                                n&aacute;&#345;ad&iacute;</span></a>&nbs=
+p;</strong>
+                              </p>
+                        =
+      <p style=3D"margin:0px;padding:0px;color:#ffffff;text-align:center;">=
+
+                                <span style=3D"line-height:1.75em;"><spa=
+n style=3D"color:#444444;"><span style=3D"font-size:20px;">P&#345;&iacute;m=
+o od v&yacute;robce a se slevou 1 700 K&#269;&nbsp;</span></span></span>
+=
+                              </p>
+                            </td>
+  =
+                        </tr></tbody></table></div><!--[if (gte mso 9)|(IE)=
+]></td></tr></table><![endif]-->
+                  </td>
+              =
+  </tr><tr><td align=3D"center" class=3D"drow" style=3D"font-size:0px;backg=
+round-color:#3b3b3b;" valign=3D"top">
+                    <!--[if (gte ms=
+o 9)|(IE)]><table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"><tr><td><![endif]-->
+                    <div cla=
+ss=3D"layer_2" style=3D"width:100%;display:inline-block;vertical-align:top;=
+margin:0px auto;max-width:598px;">
+                      <table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"edcontent" style=3D"border=
+-collapse:collapse;width:100%;"><tbody><tr><td class=3D"edimg" style=3D"tex=
+t-align:center;" valign=3D"top">
+                              <img alt=
+=3D"Obraz" src=3D"https://api.elasticemail.com/userfile/2a35b819-76a4-480a-=
+a9cd-6bdba101c488/Untitled-1_16.png" style=3D"border-width:0px;border-style=
+:none;max-width:598px;width:100%;" width=3D"598"></td>
+                  =
+        </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td></tr></ta=
+ble><![endif]-->
+                  </td>
+                </tr><tr><td a=
+lign=3D"center" class=3D"drow" style=3D"font-size:0px;background-color:#f7c=
+532;" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><tabl=
+e width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" s=
+tyle=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto;=
+max-width:299px;">
+                      <table border=3D"0" cellpadding=
+=3D"14" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:coll=
+apse;width:100%;"><tbody><tr><td class=3D"edimg" style=3D"text-align:center=
+;" valign=3D"top">
+                              <a href=3D"http://www.pw=
+rwork.cz/detail/kufr-s-naradim-108-nastroju-78314/" style=3D"color:#27272f;=
+font-size:12px;font-family:'Courier New', Courier, monospace;text-decoratio=
+n:none;"><img alt=3D"Kurf" src=3D"https://api.elasticemail.com/userfile/682=
+5c7f2-1363-466e-a4b7-9293b5d85d5f/pwr6.jpg" style=3D"border-width:0px;borde=
+r-style:none;max-width:271px;width:100%;" width=3D"271"></a>
+            =
+                </td>
+                          </tr></tbody></table></di=
+v><!--[if (gte mso 9)|(IE)]></td><td><![endif]-->
+                    <di=
+v class=3D"layer_2" style=3D"width:100%;display:inline-block;vertical-align=
+:top;margin:0px auto;max-width:299px;">
+                      <table bord=
+er=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"edcontent" style=3D"=
+border-collapse:collapse;width:100%;"><tbody><tr><td class=3D"edtext" style=
+=3D"color:#8b8b8b;font-size:12px;font-family:Tahoma, Geneva, sans-serif;tex=
+t-align:left;" valign=3D"middle">
+                              <p style=
+=3D"margin:0px;padding:0px;">
+                                &nbsp;
+  =
+                            </p>
+                              <p style=
+=3D"margin:0px;padding:0px;">
+                                &nbsp;
+  =
+                            </p>
+                              <p style=
+=3D"margin:0px;padding:0px;">
+                                &nbsp;
+  =
+                            </p>
+                              <p style=
+=3D"margin:0px;padding:0px;">
+                                &nbsp;
+  =
+                            </p>
+                              <p style=
+=3D"margin:0px;padding:0px;">
+                                &nbsp;
+  =
+                            </p>
+                              <p style=
+=3D"margin:0px;padding:0px;text-align:center;">
+                         =
+       <span style=3D"color:#ff0000;"><span style=3D"font-size:20px;">Kompl=
+etn&iacute; a praktick&yacute; kufr s v&iacute;ce ne&#382; 100 kusy n&aacut=
+e;&#345;ad&iacute;</span></span>
+                              </p>
+   =
+                           <p style=3D"margin:0px;padding:0px;text-align:ce=
+nter;">
+                                &nbsp;
+                        =
+      </p>
+                              <p style=3D"margin:0px;padding:0=
+px;text-align:center;">
+                                <span style=3D"co=
+lor:#ff0000;"><span style=3D"font-size:20px;">&nbsp;sleva 1 700 K&#269;</sp=
+an> <a href=3D"http://www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-783=
+14/" style=3D"color:#27272f;font-size:12px;font-family:'Courier New', Couri=
+er, monospace;text-decoration:none;"><span style=3D"font-size:24px;"><stron=
+g>zde</strong></span></a></span>
+                              </p>
+   =
+                         </td>
+                          </tr></tbody></t=
+able></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+     =
+             </td>
+                </tr><tr><td align=3D"center" class=3D=
+"drow" style=3D"font-size:0px;background-color:#3b3b3b;" valign=3D"top">
+=
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![end=
+if]-->
+                    <div class=3D"layer_2" style=3D"width:100%;dis=
+play:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+ =
+                     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"><tbody=
+><tr><td class=3D"edimg" style=3D"text-align:center;" valign=3D"top">
+   =
+                           <img alt=3D"Obraz" src=3D"https://api.elasticema=
+il.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488/Untitled-1_16.png" sty=
+le=3D"border-width:0px;border-style:none;max-width:598px;width:100%;" width=
+=3D"598"></td>
+                          </tr></tbody></table></div><!--[=
+if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                  </t=
+d>
+                </tr><tr><td align=3D"center" class=3D"drow" style=3D"=
+font-size:0px;background-color:#f7c532;" valign=3D"top">
+                =
+    <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->
+         =
+           <div class=3D"layer_2" style=3D"width:100%;display:inline-block;=
+vertical-align:top;margin:0px auto;max-width:299px;">
+                   =
+   <table border=3D"0" cellpadding=3D"32" cellspacing=3D"0" class=3D"edcont=
+ent" style=3D"border-collapse:collapse;width:100%;"><tbody><tr><td class=3D=
+"edtext" style=3D"color:#8b8b8b;font-size:12px;font-family:Tahoma, Geneva, =
+sans-serif;text-align:left;" valign=3D"middle">
+                         =
+     <ul><li>
+                                  <span style=3D"color:#000=
+000;"><span style=3D"font-size:18px;"><a href=3D"http://www.pwrwork.cz/deta=
+il/kufr-s-naradim-108-nastroju-78314/" style=3D"color:#27272f;font-size:12p=
+x;font-family:'Courier New', Courier, monospace;text-decoration:none;"><spa=
+n style=3D"font-size:20px;"><strong>OBSAHUJE</strong></span></a>:</span> &n=
+bsp;</span>
+                                </li>
+                     =
+           <li>
+                                  <span style=3D"color:#0=
+00000;">12 imbusov&yacute;ch kl&iacute;&#269;&#367;</span>
+              =
+                  </li>
+                                <li>
+          =
+                        <span style=3D"color:#000000;">Velk&yacute; k&#345;=
+&iacute;&#382;ov&yacute; &scaron;roubov&aacute;k Phillips s magnetick&yacut=
+e;m hrotem</span>
+                                </li>
+               =
+                 <li>
+                                  <span style=3D"co=
+lor:#000000;">Velk&yacute; ploch&yacute; &scaron;roubov&aacute;k s magnetic=
+k&yacute;m hrotem</span>
+                                </li>
+        =
+                        <li>
+                                  <span styl=
+e=3D"color:#000000;">Mal&yacute; k&#345;&iacute;&#382;ov&yacute; &scaron;ro=
+ubov&aacute;k Phillips</span>
+                                </li>
+   =
+                             <li>
+                                  <span=
+ style=3D"color:#000000;">Mal&yacute; ploch&yacute; &scaron;roubov&aacute;k=
+</span>
+                                </li>
+                         =
+       <li>
+                                  <span style=3D"color:#00000=
+0;">Zkou&scaron;e&#269;ka nap&#283;t&iacute;</span>
+                     =
+           </li>
+                                <li>
+                 =
+                 <span style=3D"color:#000000;">Kloubov&eacute; n&#367;&#38=
+2;ky na plech a dr&aacute;ty</span>
+                                </li>=
+
+                                <li>
+                                 =
+ <span style=3D"color:#000000;">Pilka na &#382;elezo 9''</span>
+         =
+                       </li>
+                                <li>
+     =
+                             <span style=3D"color:#000000;">Role lepic&iacu=
+te; p&aacute;sky</span>
+                                </li>
+         =
+                       <li>
+                                  <span style=
+=3D"color:#000000;">Francouzsk&yacute; kl&iacute;&#269; 8"</span>
+       =
+                         </li>
+                                <li>
+   =
+                               <span style=3D"color:#000000;">Kle&scaron;t&=
+#283; 10''</span>
+                                </li>
+               =
+                 <li>
+                                  <span style=3D"co=
+lor:#000000;">Kombinovan&eacute; kle&scaron;t&#283; 6''</span>
+          =
+                      </li>
+                                <li>
+      =
+                            <span style=3D"color:#000000;">Jehlov&eacute; k=
+le&scaron;t&#283; rovn&eacute; 6''</span>
+                               =
+ </li>
+                                <li>
+                           =
+       <span style=3D"color:#000000;">Svinovac&iacute; metr s brzdou (3m)</=
+span>
+                                </li>
+                           =
+     <li>
+                                  <span style=3D"color:#000000;=
+">&Scaron;estihrann&yacute; magnetick&yacute; &scaron;roubov&aacute;k</span=
+>
+                                </li>
+                               =
+ <li>
+                                  <span style=3D"color:#000000;">20=
+ &scaron;roubovac&iacute;ch bit&#367;</span>
+                            =
+    </li>
+                                <li>
+                        =
+          <span style=3D"color:#000000;">L&aacute;mac&iacute; n&#367;&#382;=
+</span>
+                                </li>
+                         =
+       <li>
+                                  <span style=3D"color:#00000=
+0;">Kladivo</span>
+                                </li>
+              =
+                  <li>
+                                  <span style=3D"c=
+olor:#000000;">&Scaron;rouby, h&#345;eb&iacute;ky a matky</span>
+        =
+                        </li>
+                                <li>
+    =
+                              <span style=3D"color:#000000;">Plastov&yacute=
+; kufr na n&aacute;&#345;ad&iacute; (cca 37 x 27 x 8 cm)</span>
+         =
+                       </li>
+                              </ul></td>
+ =
+                         </tr></tbody></table></div><!--[if (gte mso 9)|(IE=
+)]></td><td><![endif]-->
+                    <div class=3D"layer_2" style=
+=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-=
+width:299px;">
+                      <table border=3D"0" cellpadding=3D"2=
+0" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;=
+width:100%;"><tbody><tr><td class=3D"edimg" style=3D"text-align:center;" va=
+lign=3D"top">
+                              <a href=3D"http://www.pwrwork=
+.cz/detail/kufr-s-naradim-108-nastroju-78314/" style=3D"color:#27272f;font-=
+size:12px;font-family:'Courier New', Courier, monospace;text-decoration:non=
+e;"><img alt=3D"Kufr s n&aacute;&#345;ad&iacute;m" src=3D"https://api.elast=
+icemail.com/userfile/6825c7f2-1363-466e-a4b7-9293b5d85d5f/pwr3.jpg" style=
+=3D"border-width:0px;border-style:none;max-width:259px;width:100%;" width=
+=3D"259"></a>
+                            </td>
+                       =
+   </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><=
+![endif]-->
+                  </td>
+                </tr><tr><td align=
+=3D"center" class=3D"drow" style=3D"font-size:0px;background-color:#3b3b3b;=
+" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><table wi=
+dth=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" style=
+=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-=
+width:600px;">
+                      <table border=3D"0" cellpadding=3D"2=
+0" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;=
+width:100%;"><tbody><tr><td class=3D"edbutton" valign=3D"top">
+          =
+                    <table align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"height:42px;text-align:center;" width=3D"149"><tbody><tr><t=
+d align=3D"center" height=3D"18" style=3D"background:#ffbd03;border-radius:=
+4px;padding:12px;" width=3D"125">
+                                      <=
+a href=3D"http://www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/" =
+style=3D"color:#27272f;font-size:12px;font-family:'Courier New', Courier, m=
+onospace;font-weight:normal;text-decoration:none;width:100%;display:inline-=
+block;" target=3D"_blank"><span style=3D"color:#ffffff;">Objedn&aacute;vejt=
+e zde</span></a>
+                                    </td>
+            =
+                      </tr></tbody></table></td>
+                        =
+  </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><!=
+[endif]-->
+                  </td>
+                </tr><tr><td align=
+=3D"center" class=3D"drow" style=3D"font-size:0px;background-color:#3b3b3b;=
+" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><table wi=
+dth=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" style=
+=3D"width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-=
+width:598px;">
+                      <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;w=
+idth:100%;"><tbody><tr><td class=3D"edimg" style=3D"text-align:center;" val=
+ign=3D"top">
+                              <img alt=3D"Obraz" src=3D"http=
+s://api.elasticemail.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488/Unti=
+tled-1_16.png" style=3D"border-width:0px;border-style:none;max-width:598px;=
+width:100%;" width=3D"598"></td>
+                          </tr></tbody><=
+/table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+   =
+               </td>
+                </tr><tr><td align=3D"center" class=
+=3D"drow" style=3D"font-size:0px;background-color:#3b3b3b;" valign=3D"top">=
+
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![en=
+dif]-->
+                    <div class=3D"layer_2" style=3D"width:100%;di=
+splay:inline-block;vertical-align:top;margin:0px auto;max-width:300px;">
+=
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"><tbod=
+y><tr><td class=3D"edimg" style=3D"text-align:center;" valign=3D"top">
+  =
+                            <a href=3D"http://www.pwrwork.cz/detail/kufr-s-=
+naradim-108-nastroju-78314/" style=3D"color:#27272f;font-size:12px;font-fam=
+ily:'Courier New', Courier, monospace;text-decoration:none;"><img alt=3D"Ku=
+fr 108 ks" src=3D"https://api.elasticemail.com/userfile/6825c7f2-1363-466e-=
+a4b7-9293b5d85d5f/pwr2.jpg" style=3D"border-width:1px;border-style:solid;ma=
+x-width:298px;width:100%;" width=3D"298"></a>
+                           =
+ </td>
+                          </tr></tbody></table></div><!--[if (gte =
+mso 9)|(IE)]></td><td><![endif]-->
+                    <div class=3D"laye=
+r_2" style=3D"width:100%;display:inline-block;vertical-align:top;margin:0px=
+ auto;max-width:300px;">
+                      <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collapse:=
+collapse;width:100%;"><tbody><tr><td class=3D"edimg" style=3D"text-align:ce=
+nter;" valign=3D"top">
+                              <a href=3D"http://ww=
+w.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/" style=3D"color:#272=
+72f;font-size:12px;font-family:'Courier New', Courier, monospace;text-decor=
+ation:none;"><img alt=3D"Balen&iacute;" src=3D"https://api.elasticemail.com=
+/userfile/6825c7f2-1363-466e-a4b7-9293b5d85d5f/pwr5.jpg" style=3D"border-wi=
+dth:1px;border-style:solid;max-width:298px;width:100%;" width=3D"298"></a>=
+
+                            </td>
+                          </tr></tbo=
+dy></table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->=
+
+                  </td>
+                </tr><tr><td align=3D"center" =
+class=3D"drow" style=3D"font-size:0px;background-color:#3b3b3b;" valign=3D"=
+top">
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td>=
+<![endif]-->
+                    <div class=3D"layer_2" style=3D"width:10=
+0%;display:inline-block;vertical-align:top;margin:0px auto;max-width:600px;=
+">
+                      <table border=3D"0" cellpadding=3D"20" cellspaci=
+ng=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"=
+><tbody><tr><td class=3D"edbutton" valign=3D"top">
+                      =
+        <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"height:42px;text-align:center;" width=3D"149"><tbody><tr><td align=3D"c=
+enter" height=3D"18" style=3D"background:#ffbd03;border-radius:4px;padding:=
+12px;" width=3D"125">
+                                      <a href=3D"ht=
+tp://www.pwrwork.cz/detail/kufr-s-naradim-108-nastroju-78314/" style=3D"col=
+or:#27272f;font-size:12px;font-family:'Courier New', Courier, monospace;fon=
+t-weight:normal;text-decoration:none;width:100%;display:inline-block;" targ=
+et=3D"_blank"><span style=3D"color:#ffffff;">Objedn&aacute;vejte zde</span>=
+</a>
+                                    </td>
+                        =
+          </tr></tbody></table></td>
+                          </tr></tbo=
+dy></table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->=
+
+                  </td>
+                </tr><tr><td align=3D"center" =
+class=3D"drow" style=3D"font-size:0px;background-color:#303030;" valign=3D"=
+top">
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td>=
+<![endif]-->
+                    <div class=3D"layer_2" style=3D"width:10=
+0%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;=
+">
+                      <table border=3D"0" cellpadding=3D"10" cellspaci=
+ng=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"=
+><tbody><tr><td class=3D"edtext" style=3D"color:#8b8b8b;font-size:12px;font=
+-family:Tahoma, Geneva, sans-serif;text-align:left;" valign=3D"middle">
+ =
+                             <p style=3D"margin:0px;padding:0px;text-align:=
+center;font-size:11px;">
+                                Toto directmarke=
+tingov&eacute; sd&#283;len&iacute; bylo zasl&aacute;no dle z&aacute;kona 48=
+0/2004 Sb. &nbsp;marketingovou agenturou<br>
+                            =
+    GlobalAdvertisement, s.r.o. se s&iacute;dlem n&aacute;m&#283;st&iacute;=
+ P&#345;&aacute;telstv&iacute; 1518/2, Hostiva&#345;, 102 00, Praha 10, I&#=
+268;: 253 34 697. Nep&#345;ejte-li si nad&aacute;le dost&aacute;vat tyto zp=
+r&aacute;vy a zv&yacute;hodn&#283;n&eacute;
+                             =
+   nab&iacute;dky p&#345;&iacute;mo pro V&aacute;s,m&#367;&#382;ete se bezp=
+e&#269;n&#283; <a href=3D"https://easymailjet.com/index.php/lists/eq507becj=
+w2c8/unsubscribe/az0336gz3937d/zq579r9gdqc44/unsubscribe-direct">odhl&aacut=
+e;sit zde</a>
+                              </p>
+                      =
+      </td>
+                          </tr></tbody></table></div><!--[if =
+(gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                  </td>=
+
+                </tr><tr><td align=3D"center" class=3D"drow" style=3D"fo=
+nt-size:0px;background-color:#f7c532;" valign=3D"top">
+                  =
+  <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=3D"center" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->
+           =
+         <div class=3D"layer_2" style=3D"width:100%;display:inline-block;ve=
+rtical-align:top;margin:0px auto;max-width:598px;">
+                     =
+ <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" class=3D"edconten=
+t" style=3D"border-collapse:collapse;width:100%;"><tbody><tr><td class=3D"e=
+mptycell" valign=3D"top">
+                              &nbsp;
+        =
+                    </td>
+                          </tr></tbody></table>=
+</div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+          =
+        </td>
+                </tr></tbody></table><!--[if (gte mso 9)|(I=
+E)]></td></tr></table><![endif]-->
+          </td>
+        </tr></tbody=
+></table><img width=3D"1" height=3D"1" src=3D"https://easymailjet.com/index=
+.php/campaigns/zq579r9gdqc44/track-opening/az0336gz3937d" alt=3D"" />
+</b=
+ody></html>
+
+
+--_=_swift_v4_1492747075_a6418b3f7596f9d888d82f221d42cbf0_=_--

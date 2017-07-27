@@ -1,0 +1,444 @@
+Return-Path: <0102015cb18d392b-33a16428-9c5a-414b-b8d9-183aa7dbe39e-000000@eu-west-1.amazonses.com>
+Delivered-To: zazijte@obchodniuspech.cz
+Received: from mx.mastered-monkey.com (mail.mastered-monkey.com [127.0.0.1])
+	by mx.mastered-monkey.com (Postfix) with ESMTP id A0AC351DF2
+	for <zazijte@obchodniuspech.cz>; Fri, 16 Jun 2017 17:37:39 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mx.mastered-monkey.com
+Authentication-Results: mx.mastered-monkey.com (amavisd-new);
+	dkim=pass (1024-bit key) header.d=global-advertisement.cz
+	header.b=cDh65VuH; dkim=pass (1024-bit key) header.d=amazonses.com
+	header.b=CCR9vOpL
+Received: from mx.mastered-monkey.com ([127.0.0.1])
+	by mx.mastered-monkey.com (mx.mastered-monkey.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FZLFxBOajObP for <zazijte@obchodniuspech.cz>;
+	Fri, 16 Jun 2017 17:37:23 +0200 (CEST)
+Received: from a3-8.smtp-out.eu-west-1.amazonses.com (a3-8.smtp-out.eu-west-1.amazonses.com [54.240.3.8])
+	by mx.mastered-monkey.com (Postfix) with ESMTPS id 37D5B51DF1
+	for <zazijte@obchodniuspech.cz>; Fri, 16 Jun 2017 17:37:22 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=wr25adko2kr4whzr66kjaor5tyscw3es; d=global-advertisement.cz;
+	t=1497627441;
+	h=Date:To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=BHGLIYmhPr7yM6ju5xHi/9EGKsi1Dq8nkaSmIwdyzjc=;
+	b=cDh65VuHzTgwGcCPkqyvy0gjxZC8bZOYazt9QLi5QPwFW6uLP4KOlJEm4jWzO8Tg
+	ipA74vS7Chqp5H3lso7OqM7ObB0UNWiNxBpD5XSYUpqAuY8abBVZna28reu7uvTpzDV
+	vpkH9MCc59q/rtbmzJlS6P5tdyw5VEWEkRY0pgnA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1497627441;
+	h=Date:To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=BHGLIYmhPr7yM6ju5xHi/9EGKsi1Dq8nkaSmIwdyzjc=;
+	b=CCR9vOpLFTmWtXUGm/62SUbLSN5JyjTiUY6QT5U9QPn1a7kELPRrVh8TwEEHMqrM
+	dxf5gXR7nCFZwK09DAnY1BTTWDpMtzbDi3KUoNy/+sr9uFKR5g2BwYJo1RD8maVUM6f
+	ua8GVmZ8d3Hk0CT1boeN9HLlfFrovZlUj1L6diuE=
+Date: Fri, 16 Jun 2017 15:37:21 +0000
+To: zazijte@obchodniuspech.cz
+From: =?UTF-8?Q?P=C5=99=C3=ADmo_od_v=C3=BDrobce?= <noreply@global-advertisement.cz>
+Reply-To: =?UTF-8?Q?P=C5=99=C3=ADmo_od_v=C3=BDrobce?= <noreply@global-advertisement.cz>
+Subject: =?UTF-8?Q?Praktick=C3=BD_kufr_s_108_ks_n=C3=A1=C5=99ad=C3=AD_-_DNES_SLEVA?=
+ =?UTF-8?Q?_1_700_K=C4=8D?=
+Message-ID: <0102015cb18d392b-33a16428-9c5a-414b-b8d9-183aa7dbe39e-000000@eu-west-1.amazonses.com>
+X-Mailer: Sendy (https://sendy.co)
+List-Unsubscribe: <http://www.sendik.cz/ucet/unsubscribe/i763y5CMPLFijHSlLUD4kq7h763TarUKOd3SYfDB4wIL9go/nOT668YW5ZjY763gBpjzfYXg/BV2XkRDpX1ebHEAzbotWVw>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ffd8c1387f8e22980a32f54740a886e4"
+Content-Transfer-Encoding: 8bit
+X-SES-Outgoing: 2017.06.16-54.240.3.8
+Feedback-ID: 1.eu-west-1.XWlVIhULHfrmWD+2bVLJw11EYfkhf0BDCcFnOMJucm8=:AmazonSES
+
+This is a multi-part message in MIME format.
+
+--b1_ffd8c1387f8e22980a32f54740a886e4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Praktický kufr s nářadím. Přímo od výrobce a se slevou 1 700 Kč. 
+
+
+--b1_ffd8c1387f8e22980a32f54740a886e4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC " -//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>PWR WORK</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width">
+	<style type="text/css">body, html {
+      width: 100% !important;
+      margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: none;
+      -ms-text-size-adjust: 100%;
+    }
+      table td, table {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      #outlook a {
+        padding: 0;
+      }
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      @media only screen and (max-width: 480px) {
+        table, table tr td, table td {
+          width: 100% !important;
+        }
+        img {
+          width: inherit;
+        }
+        .layer_2 {
+          max-width: 100% !important;
+        }
+      }
+	</style>
+</head>
+<body style="padding: 0px; margin: 0px;">
+<table align="center" style="width: 100%; height: 100%; background-color: #3b3b3b;">
+	<tbody>
+		<tr>
+			<td data-version="2.22" id="dbody" style="padding-top:15px;padding-bottom:15px;width:100%;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table style="width:600px" width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="layer_1" style="max-width:600px;width:100%;box-sizing:border-box;border:#854444;">
+				<tbody>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="4" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edtext" style="color:#8b8b8b;font-size:12px;font-family:Tahoma,Geneva,sans-serif;text-align:left;direction:ltr;box-sizing:border-box;" valign="top">
+									<p style="margin:0px;padding:0px;text-align:left;font-size:10px;">Kufr se 108 ks n&aacute;řad&iacute; sleva 1 700 Kč<a href="http://www.sendik.cz/ucet/w/14FtImrjNSsN82cQKgU9RA/nOT668YW5ZjY763gBpjzfYXg/BV2XkRDpX1ebHEAzbotWVw" >Přej&iacute;t na webovou verzi</a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#f7c532;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edtext" style="color:#8b8b8b;font-size:12px;font-family:Tahoma,Geneva,sans-serif;text-align:left;direction:ltr;box-sizing:border-box;" valign="top">
+									<div class="edit" style="display: block;">&nbsp;</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><img alt="Obraz" src="https://api.elasticemail.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488/Untitled-1_16.png" style="border-width: 0px; border-style: none; max-width: 598px; width: 100%;" width="598" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#f7c532;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="32" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edtext" style="color:#8b8b8b;font-size:12px;font-family:Tahoma,Geneva,sans-serif;text-align:left;direction:ltr;box-sizing:border-box;" valign="top">
+									<p class="style2" style="color:#3e3e3e;font-size:32px;font-family:'Courier New',Courier,monospace;margin:0px;padding:0px;text-align:center;"><strong><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><span style="font-size: 24px;">Kufr se 108 ks n&aacute;řad&iacute;</span></a>&nbsp; </strong></p>
+
+									<p style="margin:0px;padding:0px;color:#ffffff;text-align:center;"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw"><span style="line-height: 1.75em;"><span style="color: #444444; class="><span style="font-size: 20px;">Př&iacute;mo od v&yacute;robce a se slevou 1 700 Kč ZDE</span></span></span></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><img alt="Obraz" src="https://api.elasticemail.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488/Untitled-1_16.png" style="border-width: 0px; border-style: none; max-width: 598px; width: 100%;" width="598" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:600px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><img alt="Nářadí přímo od výrobce" src="http://www.sendik.cz/ucet/uploads/1497533268.jpg" style="border-width: 0px; border-style: none; max-width: 598px; width: 600px; height: 335px;" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:600px;">
+						<table border="0" cellpadding="20" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="emptycell" valign="top">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#f7c532;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:299px;">
+						<table border="0" cellpadding="14" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><img alt="Kurf" src="http://www.sendik.cz/ucet/uploads/1497533312.jpg" style="border-width: 0px; border-style: none; max-width: 271px; width: 300px; height: 300px;" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td><td><![endif]-->
+
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:299px;">
+						<table border="0" cellpadding="20" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edtext" style="color:#8b8b8b;font-size:12px;font-family:Tahoma,Geneva,sans-serif;text-align:left;direction:ltr;box-sizing:border-box;" valign="middle">
+									<p style="margin:0px;padding:0px;">&nbsp;</p>
+
+									<p style="margin:0px;padding:0px;">&nbsp;</p>
+
+									<p style="margin:0px;padding:0px;">&nbsp;</p>
+
+									<p style="margin:0px;padding:0px;">&nbsp;</p>
+
+									<p style="margin:0px;padding:0px;">&nbsp;</p>
+
+									<p style="margin:0px;padding:0px;text-align:center;"><span style="color: #ff0000;"><span style="font-size: 20px;">Kompletn&iacute; a praktick&yacute; kufr s v&iacute;ce než 100 kusy n&aacute;řad&iacute; </span> </span></p>
+
+									<p style="margin:0px;padding:0px;text-align:center;">&nbsp;</p>
+
+									<p style="margin:0px;padding:0px;text-align:center;"><span style="color: #ff0000;"><span style="font-size: 20px;">&nbsp;sleva 1 700 Kč </span> <a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><span style="font-size: 24px;"><strong>zde</strong></span></a></span></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:600px;">
+						<table border="0" cellpadding="20" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="emptycell" valign="top">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:300px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><img alt="Kufr 108 ks" src="http://www.sendik.cz/ucet/uploads/1497533354.jpg" style="border-width: 1px; border-style: solid; max-width: 298px; width: 295px; height: 295px;" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td><td><![endif]-->
+
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:300px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><img alt="Balení" src="http://www.sendik.cz/ucet/uploads/1497533390.jpg" style="border-width: 1px; border-style: solid; max-width: 298px; width: 295px; height: 295px;" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><img alt="Obraz" src="https://api.elasticemail.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488/Untitled-1_16.png" style="border-width: 0px; border-style: none; max-width: 598px; width: 100%;" width="598" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:600px;">
+						<table border="0" cellpadding="20" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edbutton" valign="top">
+									<table align="center" cellpadding="0" cellspacing="0" height="42" style="text-align: center" width="149">
+										<tbody>
+											<tr>
+												<td align="center" height="18" style="background:#ffbd03;border-radius:4px;padding:12px;" width="125"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#ffffff;font-size:16px;font-family:Helvetica,Arial,sans-serif;text-decoration:none;font-weight:normal;width:100%;display:inline-block;" target="_blank"><span style="color: #ffffff;">Objedn&aacute;vejte zde</span></a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#f7c532;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:299px;">
+						<table border="0" cellpadding="32" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edtext" style="color:#8b8b8b;font-size:12px;font-family:Tahoma,Geneva,sans-serif;text-align:left;direction:ltr;box-sizing:border-box;" valign="middle">
+									<ul>
+										<li><span style="color: #000000;"><span style="font-size: 18px;"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><span style="font-size: 20px;"><strong>OBSAHUJE</strong></span></a>: </span>&nbsp; </span></li>
+										<li><span style="color: #000000;">12 imbusov&yacute;ch kl&iacute;čů </span></li>
+										<li><span style="color: #000000;">Velk&yacute; kř&iacute;žov&yacute; &scaron;roubov&aacute;k Phillips s magnetick&yacute;m hrotem </span></li>
+										<li><span style="color: #000000;">Velk&yacute; ploch&yacute; &scaron;roubov&aacute;k s magnetick&yacute;m hrotem </span></li>
+										<li><span style="color: #000000;">Mal&yacute; kř&iacute;žov&yacute; &scaron;roubov&aacute;k Phillips </span></li>
+										<li><span style="color: #000000;">Mal&yacute; ploch&yacute; &scaron;roubov&aacute;k </span></li>
+										<li><span style="color: #000000;">Zkou&scaron;ečka napět&iacute; </span></li>
+										<li><span style="color: #000000;">Kloubov&eacute; nůžky na plech a dr&aacute;ty </span></li>
+										<li><span style="color: #000000;">Pilka na železo 9&#39;&#39; </span></li>
+										<li><span style="color: #000000;">Role lepic&iacute; p&aacute;sky </span></li>
+										<li><span style="color: #000000;">Francouzsk&yacute; kl&iacute;č 8&quot; </span></li>
+										<li><span style="color: #000000;">Kle&scaron;tě 10&#39;&#39; </span></li>
+										<li><span style="color: #000000;">Kombinovan&eacute; kle&scaron;tě 6&#39;&#39; </span></li>
+										<li><span style="color: #000000;">Jehlov&eacute; kle&scaron;tě rovn&eacute; 6&#39;&#39; </span></li>
+										<li><span style="color: #000000;">Svinovac&iacute; metr s brzdou (3m) </span></li>
+										<li><span style="color: #000000;">&Scaron;estihrann&yacute; magnetick&yacute; &scaron;roubov&aacute;k </span></li>
+										<li><span style="color: #000000;">20 &scaron;roubovac&iacute;ch bitů </span></li>
+										<li><span style="color: #000000;">L&aacute;mac&iacute; nůž </span></li>
+										<li><span style="color: #000000;">Kladivo </span></li>
+										<li><span style="color: #000000;">&Scaron;rouby, hřeb&iacute;ky a matky </span></li>
+										<li><span style="color: #000000;">Plastov&yacute; kufr na n&aacute;řad&iacute; (cca 37 x 27 x 8 cm) </span></li>
+									</ul>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td><td><![endif]-->
+
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:299px;">
+						<table border="0" cellpadding="20" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#27272f;font-size:12px;font-family:'Courier New',Courier,monospace;text-decoration:none;"><img alt="Kufr s nářadím" src="http://www.sendik.cz/ucet/uploads/1497533417.jpg" style="border-width: 0px; border-style: none; max-width: 259px; width: 300px; height: 300px;" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edimg" style="box-sizing:border-box;text-align:center;" valign="top"><img alt="Obraz" src="https://api.elasticemail.com/userfile/2a35b819-76a4-480a-a9cd-6bdba101c488/Untitled-1_16.png" style="border-width: 0px; border-style: none; max-width: 598px; width: 100%;" width="598" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#3b3b3b;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:600px;">
+						<table border="0" cellpadding="20" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="edbutton" valign="top">
+									<table align="center" cellpadding="0" cellspacing="0" height="42" style="text-align: center" width="149">
+										<tbody>
+											<tr>
+												<td align="center" height="18" style="background:#ffbd03;border-radius:4px;padding:12px;" width="125"><a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/IjJAHy1AajG1tYg1K7FAUA/BV2XkRDpX1ebHEAzbotWVw" style="color:#ffffff;font-size:16px;font-family:Helvetica,Arial,sans-serif;text-decoration:none;font-weight:normal;width:100%;display:inline-block;" target="_blank"><span style="color: #ffffff;">Objedn&aacute;vejte zde</span></a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#303030;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="10" cellspacing="0" class="edcontent" style="border-collapse: collapse; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="edtext" style="color:#8b8b8b;font-size:12px;font-family:Tahoma,Geneva,sans-serif;text-align:left;direction:ltr;box-sizing:border-box;" valign="middle">
+									<p style="margin:0px;padding:0px;text-align:center;font-size:11px;">Toto directmarketingov&eacute; sdělen&iacute; bylo zasl&aacute;no dle z&aacute;kona 480/2004 Sb. &nbsp;marketingovou agenturou<br />
+									GlobalAdvertisement, s.r.o. se s&iacute;dlem n&aacute;měst&iacute; Př&aacute;telstv&iacute; 1518/2, Hostivař, 102 00, Praha 10, IČ: 253 34 697. Nepřejte-li si nad&aacute;le dost&aacute;vat tyto zpr&aacute;vy a zv&yacute;hodněn&eacute; nab&iacute;dky př&iacute;mo pro V&aacute;s,můžete se <a href="http://www.sendik.cz/ucet/unsubscribe/i763y5CMPLFijHSlLUD4kq7h763TarUKOd3SYfDB4wIL9go/nOT668YW5ZjY763gBpjzfYXg/BV2XkRDpX1ebHEAzbotWVw" >Odhl&aacute;sit se zde</a> <a href="http://www.sendik.cz/ucet/l/14FtImrjNSsN82cQKgU9RA/ArvsQRyXMR763iwYtKap763qQw/BV2XkRDpX1ebHEAzbotWVw" style="color:#828282;font-size:12px;font-family:'Trebuchet MS',Helvetica,sans-serif;text-decoration:none;">zde</a></p>
+
+									<p style="margin:0px;padding:0px;text-align:center;font-size:11px;">Web: http://www.globaladvertisement.cz, tel. pro odhl&aacute;&scaron;en&iacute;: 228 225 612<br />
+									&nbsp;</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+					<tr>
+						<td align="center" class="drow" style="box-sizing:border-box;font-size:0px;background-color:#f7c532;" valign="top"><!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+						<div class="layer_2" style="width:100%;display:inline-block;vertical-align:top;margin:0px auto;max-width:598px;">
+						<table border="0" cellpadding="10" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+							<tbody>
+								<tr>
+									<td class="emptycell" valign="top">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+					</tr>
+				</tbody>
+			</table>
+			<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+<img src="http://www.sendik.cz/ucet/t/BV2XkRDpX1ebHEAzbotWVw/14FtImrjNSsN82cQKgU9RA" alt="" style="width:1px;height:1px;"/>
+
+
+
+--b1_ffd8c1387f8e22980a32f54740a886e4--

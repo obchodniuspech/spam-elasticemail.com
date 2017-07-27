@@ -1,0 +1,1422 @@
+Return-Path: <0102015ba2b2e6a8-6df7135c-7983-4d56-985c-575bdb109db2-000000@eu-west-1.amazonses.com>
+Delivered-To: info@internetove-hodinarstvi.cz
+Received: from mx.mastered-monkey.com (mail.mastered-monkey.com [127.0.0.1])
+	by mx.mastered-monkey.com (Postfix) with ESMTP id 0C41E51CF5
+	for <info@internetove-hodinarstvi.cz>; Tue, 25 Apr 2017 03:21:46 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mx.mastered-monkey.com
+Authentication-Results: mx.mastered-monkey.com (amavisd-new);
+	dkim=pass (1024-bit key) header.d=trezory.pro header.b=lZhly1Vq;
+	dkim=pass (1024-bit key) header.d=amazonses.com header.b=cE3w8oUy
+Received: from mx.mastered-monkey.com ([127.0.0.1])
+	by mx.mastered-monkey.com (mx.mastered-monkey.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id h7vRz4YxHvoq for <info@internetove-hodinarstvi.cz>;
+	Tue, 25 Apr 2017 03:21:27 +0200 (CEST)
+Received: from a6-83.smtp-out.eu-west-1.amazonses.com (a6-83.smtp-out.eu-west-1.amazonses.com [54.240.6.83])
+	by mx.mastered-monkey.com (Postfix) with ESMTPS id 6434051CF4
+	for <info@internetove-hodinarstvi.cz>; Tue, 25 Apr 2017 03:21:26 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=idkma27dpi26fc4mi6e5s6cqwitsdu65; d=trezory.pro; t=1493083285;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type;
+	bh=k64kxFNe5K1P3CJDKz/GNUnvH8Chv5UZ16RqFlzJ1aY=;
+	b=lZhly1VqqFuvNB/O1AlpO94jHGHjD6bRy/E5kowGIECsVkGQoG0wDhPN3Gm8/xAQ
+	vporfdvSCEnRZQpk59Gn/YI5z975ApPqhyFs8ooLUU0DSmHYT7TBQM2/yguundIUwxF
+	qOpWKKDfUpzdFyqJxd+40LPXr4fFR7Ske6Xbu0Wg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1493083285;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:Feedback-ID;
+	bh=k64kxFNe5K1P3CJDKz/GNUnvH8Chv5UZ16RqFlzJ1aY=;
+	b=cE3w8oUyDMPZ1FbzdPVeh2kp/06b227L16zDgGa0ggRnzefVW5E/ls0/lOXfjvv+
+	hCzDxr9TBB2FiJyhgoiCnV3EAut+Pe29VKJACgkTJB9zX5TS735FzPtJEB27GcbHZL6
+	yyxwKf/yYTEIVsaPhbbQJNP8PlgD/GuUr5YEhTP8=
+Message-ID: <0102015ba2b2e6a8-6df7135c-7983-4d56-985c-575bdb109db2-000000@eu-west-1.amazonses.com>
+Date: Tue, 25 Apr 2017 01:21:25 +0000
+Subject: =?utf-8?Q?Posledn=C3=ADch?= 28 =?utf-8?Q?kus=C5=AF?= -
+ =?utf-8?Q?Robustn=C3=AD_digit=C3=A1ln=C3=AD?= trezor za polovinu ceny -
+ =?utf-8?Q?kvalitn=C3=AD?= ocel
+From: =?utf-8?Q?Zbo=C5=BE=C3=AD?= z konkurzu <malota@trezory.pro>
+Reply-To: =?utf-8?Q?Zbo=C5=BE=C3=AD?= z konkurzu <malota@trezory.pro>
+To: "info@internetove-hodinarstvi.cz" <info@internetove-hodinarstvi.cz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1493083285_56c8333213f934804d872a1c25d3be42_=_"
+X-Sender: malota@trezory.pro
+X-Receiver: info@internetove-hodinarstvi.cz
+X-Mw-Subscriber-Uid: gh611bsf46aa2
+X-Mw-Mailer: SwiftMailer - @SWIFT_VERSION_NUMBER@
+X-Mw-Campaign-Uid: ex799q94tof81
+X-SES-Outgoing: 2017.04.25-54.240.6.83
+Feedback-ID: 1.eu-west-1.AuUj8PXgNNllhZIHK1m3NmQDOw3p3uI2lVD1UHbdU4w=:AmazonSES
+
+
+--_=_swift_v4_1493083285_56c8333213f934804d872a1c25d3be42_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+=09=09 Robustn=C3=AD digit=C3=A1ln=C3=AD trezor za polovinu ceny zde=
+
+http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-=
+safe-box-z-kvalitni-oceli-62070
+
+
+ http://www.zbozizkonkurzu.cz/detai=
+l/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070
+
+=
+
+ http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart=
+-safe-box-z-kvalitni-oceli-62070
+
+
+ DOBR=C3=9D DEN,=20
+
+ provozujem=
+e port=C3=A1l Zbo=C5=BE=C3=ADZkonkurzu.cz
+http://www.zbozizkonkurzu.cz/de=
+tail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070,=
+
+kter=C3=BD se specializuje na v=C3=BDkupy zbo=C5=BE=C3=AD a jejich n=
+=C3=A1sledn=C3=BD prodej -
+za t=C3=A9m=C4=9B=C5=99 v=C3=BDrobn=C3=AD ceny=
+.=20
+
+ Aktu=C3=A1ln=C4=9B V=C3=A1m m=C5=AF=C5=BEeme nab=C3=ADdnout ROBUST=
+N=C3=8D BEZPE=C4=8CNOSTN=C3=8D TREZOR
+NA VA=C5=A0E CENNOSTI=C2=A0
+HTTP:=
+//WWW.ZBOZIZKONKURZU.CZ/DETAIL/DIGITALNI-BEZPECNOSTNI-TREZOR-SMART-SAFE-BOX=
+-Z-KVALITNI-OCELI-62070
+
+ZA POLOVI=C4=8CN=C3=8D CENU. STANDARDN=C3=
+=8D Z=C3=81RUKA 2 ROKY. =C2=A0
+ZB=C3=9DV=C3=81 N=C3=81M POSLEDN=C3=8DCH 2=
+8=C2=A0KS.=C2=A0=20
+
+Trezor
+http://www.zbozizkonkurzu.cz/detail/digital=
+ni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070
+Smart Safe B=
+ox je vyroben z kvalitn=C3=AD oceli a m=C3=A1 digit=C3=A1ln=C3=AD
+zamyk=
+=C3=A1n=C3=AD.
+
+ http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecno=
+stni-trezor-smart-safe-box-z-kvalitni-oceli-62070
+
+
+ DIGIT=C3=81LN=
+=C3=8D BEZPE=C4=8CNOSTN=C3=8D TREZOR SMART SAFE BOX Z KVALITN=C3=8D OCELI=
+
+http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-=
+safe-box-z-kvalitni-oceli-62070
+
+
+ Maloobchodn=C3=AD cena: 4 839 K=
+=C4=8D v=C4=8D. dph
+NA=C5=A0E CENA: 2 289 K=C4=8C V=C4=8C. DPH
+http://w=
+ww.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-=
+kvalitni-oceli-62070
+
+
+ U=C5=A0ET=C5=98ETE 53=C2=A0%=20
+
+ OBJEDN=
+=C3=81VEJTE ZDE
+http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostn=
+i-trezor-smart-safe-box-z-kvalitni-oceli-62070
+
+
+ http://www.zbozizko=
+nkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oc=
+eli-62070
+
+
+ ..=20
+
+ Trezor je vyroben z velmi kvalitn=C3=AD oceli,=
+ m=C3=A1 bezpe=C4=8Dnostn=C3=AD z=C3=A1mky
+a vyztu=C5=BEen=C3=A9 dve=
+=C5=99e.=20
+
+ Trezor m=C3=A1 numerickou kl=C3=A1vesnici pro zad=C3=A1n=
+=C3=AD bezpe=C4=8Dnostn=C3=ADho pinu
+a tak=C3=A9 manu=C3=A1ln=C3=AD odemy=
+k=C3=A1n=C3=AD pomoc=C3=AD kl=C3=AD=C4=8D=C5=AF.
+
+ Vzhledem ke sv=C3=
+=BDm rozm=C4=9Br=C5=AFm (cca 35 x 25 x 25 cm) je tento kovov=C3=BD
+bezpe=
+=C4=8Dnostn=C3=AD trezor ide=C3=A1ln=C3=AD pro dom=C3=A1c=C3=AD i profesion=
+=C3=A1ln=C3=AD
+pou=C5=BEit=C3=AD (obchody, bary restaurace atd.).=20
+
+N=
+av=C3=ADc se d=C3=A1 p=C5=99ipevnit na st=C4=9Bnu nebo k podlaze, z=C3=
+=A1le=C5=BE=C3=AD na v=C3=A1s.
+- =C5=A1rouby jsou sou=C4=8D=C3=A1st=C3=
+=AD balen=C3=AD.
+ Trezor je vybaven vnit=C5=99n=C3=AD l=C3=A1tkovou ochra=
+nou.=20
+
+ OBJEDN=C3=81VEJTE ZDE
+http://www.zbozizkonkurzu.cz/detail/dig=
+italni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070
+
+
+ h=
+ttp://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe=
+-box-z-kvalitni-oceli-62070
+
+
+ Rozm=C4=9Bry: 34,5 x 24,5 x 22 cm.=20
+=
+
+ Materi=C3=A1l: Vysoce kvalitn=C3=AD ocel.=20
+
+P=C5=99ibli=C5=BEn=
+=C3=A1 hmotnost: 6,100 kg.=20
+
+Sou=C4=8D=C3=A1st=C3=AD balen=C3=AD 4 x AA=
+ baterie.=20
+
+Sou=C4=8D=C3=A1st balen=C3=AD =C5=A1rouby pro p=C5=99ipevn=
+=C4=9Bn=C3=AD a 2 x bezpe=C4=8Dnostn=C3=AD
+kl=C3=AD=C4=8D.=20
+
+ OBJEDN=
+=C3=81VEJTE ZDE
+http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostn=
+i-trezor-smart-safe-box-z-kvalitni-oceli-62070
+
+
+ http://www.zbozizko=
+nkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oc=
+eli-62070
+
+ Zas=C3=ADl=C3=A1me ve speci=C3=A1ln=C3=ADm ochrann=C3=A9m b=
+oxu proti po=C5=A1kozen=C3=AD. CZ
+navod prikladame.=20
+
+ http://www.zbo=
+zizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalit=
+ni-oceli-62070
+
+
+ P=C5=99eji V=C3=A1m kr=C3=A1sn=C3=BD den.=20
+
+ S =
+pozdravem=20
+
+ ING. PETR MALOTA
+ Obchodn=C3=AD =C5=99editel=20
+
+ tel.=
+ pro objedn=C3=A1vky: 840 222 840
+ e-mail: info@zbozizkonkurzu.cz=20
+ web=
+: www.zboziZkonkurzu.cz http://www.zbozizkonkurzu.cz=20
+
+ http://www.zboz=
+izkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitn=
+i-oceli-62070
+
+
+ KOMPLETN=C3=8D NAB=C3=8DDKA ZDE HTTP://WWW.ZBOZIZKON=
+KURZU.CZ=20
+
+ OBCHODNI SDELENI BYLO ZASLANO NA ZAKLADE REGISTRACE DLE Z=
+=C3=81KONA
+480/2004 SB. ROZESILATELEM OBCHODNIHO SDELENI JE MARKETINGOVA =
+AGENTURA
+GLOBALADVERTISEMENT S.R.O. SE SIDLEM NAM. PRATELSTVI 1518/2, HOS=
+TIVAR,
+102 00 PRAHA 10, I=C4=8C: 253 34 697. POKUD SI MYSLITE, ZE VAM BYL=
+ E-MAIL
+ZASLAN OMYLEM, PODIVEJTE SE NA NASE STRANKY, TREBA VAM NEKDO CHTE=
+L
+UDELAT RADOST. NEPREJETE-LI SI ZASILAT NOVINKY A AKCE PRIMO PRO VAS
+M=
+UZETE SE ODHLASIT ZDE.
+HTTPS://EASYMAILJET.COM/INDEX.PHP/LISTS/EQ507BECJW=
+2C8/UNSUBSCRIBE/GH611BSF46AA2/EX799Q94TOF81/UNSUBSCRIBE-DIRECT
+
+
+=20
+
+--_=_swift_v4_1493083285_56c8333213f934804d872a1c25d3be42_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta name=3D"charset" content=3D"utf-8">
+<style type=3D"text/c=
+ss">
+/**/
+    /**/
+    body {
+      color: #F4A600 !important;
+  =
+    padding-top: 0 !important;
+      padding-bottom: 0 !important;
+    =
+  padding-top: 0 !important;
+      padding-bottom: 0 !important;
+      =
+margin:0 !important;
+      width: 100% !important;
+      -webkit-text-s=
+ize-adjust: 100% !important;
+      -ms-text-size-adjust: 100% !important;=
+
+      -webkit-font-smoothing: antialiased !important;
+    }
+      .t=
+ableContent img {
+        border: 0 !important;
+        display: block =
+!important;
+        outline: none !important;
+      }
+      a{
+    =
+    color:#0032AB;
+      }
+      p, h1{
+        color:#0032AB;
+    =
+    margin:0;
+      }
+      p{
+        text-align:left;
+        col=
+or:#000000;
+        font-size:14px;
+        font-weight:normal;
+     =
+   line-height:19px;
+      }
+      a.link1{
+        color:#0032AB;
+=
+      }
+      a.link2{
+        font-size:16px;
+        text-decoratio=
+n:none;
+        color:#ffffff;
+      }
+      h2{
+        text-align=
+:left;
+        color:#222222;
+        font-size:19px;
+        font-we=
+ight:normal;
+      }
+      div,p,ul,h1{
+        margin:0;
+      }=
+
+      .bgBody{
+        background: #F4A600 !important;
+      }
+   =
+   .bgItem{
+        background: #F4A600 !important;
+      }
+      @me=
+dia only screen and (max-width:480px)
+      {
+        table[class=3D"Ma=
+inContainer"], td[class=3D"cell"]=20
+        {
+          width: 100% !imp=
+ortant;
+          height:auto !important;
+          background-color: #=
+F4A600 !important;
+        }
+        td[class=3D"specbundle"]=20
+      =
+  {
+          width:100% !important;
+          float:left !important;=
+
+          font-size:13px !important;
+          line-height:17px !impor=
+tant;
+          display:block !important;
+          padding-bottom:15px=
+ !important;
+          background-color: #F4A600 !important;
+        }=
+
+        td[class=3D"spechide"]=20
+        {
+          display:none !im=
+portant;
+        }
+        img[class=3D"banner"]=20
+        {
+       =
+   width: 100% !important;
+          height: auto !important;
+        }=
+
+        td[class=3D"left_pad"]=20
+        {
+          padding-left:15p=
+x !important;
+          padding-right:15px !important;
+        }
+    =
+  }
+      @media only screen and (max-width:540px)=20
+      {
+        t=
+able[class=3D"MainContainer"], td[class=3D"cell"]=20
+        {
+          =
+width: 100% !important;
+          height:auto !important;
+        }
+ =
+       td[class=3D"specbundle"]=20
+        {
+          width:100% !import=
+ant;
+          float:left !important;
+          font-size:13px !importa=
+nt;
+          line-height:17px !important;
+          display:block !imp=
+ortant;
+          padding-bottom:15px !important;
+        }
+        t=
+d[class=3D"spechide"]=20
+        {
+          display:none !important;
+ =
+       }
+        img[class=3D"banner"]=20
+        {
+          width: 10=
+0% !important;
+          height: auto !important;
+        }
+        .=
+font {
+          font-size:18px !important;
+          line-height:22px =
+!important;
+        }
+        .font1 {
+          font-size:18px !impo=
+rtant;
+          line-height:22px !important;
+        }
+      }
+   =
+ /*]]>*/
+    /*]]>*/
+</style>
+<title></title></head><body leftpadding=
+=3D"0" offset=3D"0" paddingheight=3D"0" paddingwidth=3D"0" style=3D"padding=
+-top: 0; padding-bottom: 0; padding-top: 0; padding-bottom: 0; background-r=
+epeat: repeat; background-color: #F4A600 !important; width: 100% !important=
+; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-=
+smoothing: antialiased;" toppadding=3D"0">
+
+            <table align=3D=
+"center" bgcolor=3D"#F4A600" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"tableContent" style=3D"font-family:Helvetica, Arial, serif;" wi=
+dth=3D"100%"><tbody><tr><td>
+            <table align=3D"center" bgcolor=
+=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"Main=
+Container" style=3D"background-color:#F4A600 !important;" width=3D"600"><tb=
+ody><tr><td>
+                    <table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%"><tbody><tr><td style=3D"text-align:justify;"=
+ valign=3D"top" width=3D"40">
+                            &nbsp;
+      =
+                    </td>
+                          <td>
+              =
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"movableContentContainer" valign=3D"top">=
+
+                                    <div class=3D"movableContent" style=
+=3D"border:0px;padding-top:0px;position:relative;">
+                     =
+                 <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%"><tbody><tr><td height=3D"35" style=3D"text-align:justify;">
+=
+                                              <span style=3D"font-size:8px;=
+">Robustn&iacute; digit&aacute;ln&iacute; trezor za polovinu ceny <a href=
+=3D"http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart=
+-safe-box-z-kvalitni-oceli-62070">zde&nbsp;</a></span>
+                  =
+                          </td>
+                                         =
+ </tr><tr><td>
+                                              <table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td a=
+lign=3D"center" class=3D"specbundle" valign=3D"top">
+                    =
+                                  <div class=3D"contentEditableContainer co=
+ntentTextEditable">
+                                                     =
+   <div class=3D"contentEditable">
+                                      =
+                    <p style=3D"margin:0px;font-family:Georgia, Time, sans-=
+serif;font-size:26px;color:rgb(34,34,34);text-align:justify;">
+          =
+                                                  <span class=3D"specbundle=
+2"><span class=3D"font1"><a href=3D"http://www.zbozizkonkurzu.cz/detail/dig=
+italni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070" target=3D=
+"_blank"><img alt=3D"" src=3D"http://www.sendik.cz/ucet/uploads/1466018516.=
+png" style=3D"width:600px;height:89px;float:left;"></a></span></span>
+   =
+                                                       </p>
+             =
+                                           </div>
+                       =
+                               </div>
+                                   =
+                 </td>
+                                                  =
+  <td class=3D"specbundle" valign=3D"top">
+                              =
+                        <div class=3D"contentEditableContainer contentTextE=
+ditable">
+                                                        <div cl=
+ass=3D"contentEditable">
+                                                =
+          <p style=3D"margin:0px;font-family:Georgia, Time, sans-serif;font=
+-size:26px;color:rgb(26,84,186);text-align:justify;">
+                   =
+                                         &nbsp;
+                         =
+                                 </p>
+                                   =
+                     </div>
+                                             =
+         </div>
+                                                    </td>=
+
+                                                  </tr></tbody></table><=
+/td>
+                                          </tr></tbody></table></div=
+>
+                                    <div class=3D"movableContent" style=
+=3D"border:0px;padding-top:0px;position:relative;">
+                     =
+                 <table align=3D"center" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top=
+">
+                                              <div class=3D"contentEdi=
+tableContainer contentImageEditable">
+                                   =
+             <div class=3D"contentEditable" style=3D"text-align:justify;">=
+
+                                                  &nbsp;
+             =
+                                   </div>
+                               =
+                 <div class=3D"contentEditable" style=3D"text-align:justify=
+;">
+                                                  &nbsp;
+          =
+                                      </div>
+                            =
+                    <div class=3D"contentEditable">
+                     =
+                             <a href=3D"http://www.zbozizkonkurzu.cz/detail=
+/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070" targe=
+t=3D"_blank"><img alt=3D"" data-default=3D"placeholder" src=3D"http://www.s=
+endik.cz/ucet/uploads/1466017889.png" style=3D"width:251px;height:43px;text=
+-align:justify;"></a>
+                                                </d=
+iv>
+                                              </div>
+              =
+                              </td>
+                                     =
+     </tr></tbody></table></div>
+                                    <div=
+ class=3D"movableContent" style=3D"border:0px;padding-top:0px;position:rela=
+tive;">
+                                      <table align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td=
+ height=3D"55" style=3D"text-align:justify;">
+                           =
+                   &nbsp;
+                                            </t=
+d>
+                                          </tr><tr><td align=3D"left">=
+
+                                              <div class=3D"contentEdita=
+bleContainer contentTextEditable">
+                                      =
+          <div align=3D"center" class=3D"contentEditable">
+              =
+                                    <h2 style=3D"text-align:center;">
+   =
+                                                 Dobr&yacute; den,
+      =
+                                            </h2>
+                       =
+                           <p style=3D"text-align:center;">
+             =
+                                       <span style=3D"font-size:16px;">prov=
+ozujeme port&aacute;l <a href=3D"http://www.zbozizkonkurzu.cz/detail/digita=
+lni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070">Zbo&#382;&ia=
+cute;Zkonkurzu.cz</a>, kter&yacute; se
+                                  =
+                  specializuje na v&yacute;kupy zbo&#382;&iacute; a jejich =
+n&aacute;sledn&yacute; prodej - za t&eacute;m&#283;&#345; v&yacute;robn&iac=
+ute; ceny.</span>
+                                                  </p>=
+
+                                                  <p style=3D"text-align=
+:center;">
+                                                    &nbsp;
+ =
+                                                 </p>
+                   =
+                               <p style=3D"text-align:center;">
+         =
+                                           <span style=3D"font-size:16px;">=
+Aktu&aacute;ln&#283; V&aacute;m m&#367;&#382;eme nab&iacute;dnout <strong><=
+a href=3D"http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor=
+-smart-safe-box-z-kvalitni-oceli-62070">robustn&iacute; bezpe&#269;nostn&ia=
+cute; trezor na Va&scaron;e
+                                             =
+       cennosti&nbsp;</a></strong><br><br><strong>Za polovi&#269;n&iacute; =
+cenu. Standardn&iacute; z&aacute;ruka 2 roky. &nbsp;</strong><br><strong>Zb=
+&yacute;v&aacute; n&aacute;m posledn&iacute;ch 28&nbsp;ks.&nbsp;</strong></=
+span>
+                                                  </p>
+          =
+                                        <p style=3D"text-align:center;">
+=
+                                                    <br><span style=3D"font=
+-size:16px;"><a href=3D"http://www.zbozizkonkurzu.cz/detail/digitalni-bezpe=
+cnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070">Trezor</a> Smart Safe=
+ Box je vyroben z
+                                                    kva=
+litn&iacute; oceli a m&aacute; digit&aacute;ln&iacute; zamyk&aacute;n&iacut=
+e;.</span><br>
+                                                    &nbsp;=
+
+                                                  </p>
+               =
+                                   <p style=3D"text-align:center;">
+     =
+                                               <br><a href=3D"http://www.zb=
+ozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvali=
+tni-oceli-62070"><img alt=3D"" src=3D"http://www.sendik.cz/ucet/uploads/147=
+6990751.jpg" style=3D"width:600px;height:600px;"></a>&nbsp;
+             =
+                                     </p>
+                               =
+                   <p style=3D"text-align:center;">
+                     =
+                               &nbsp;
+                                   =
+               </p>
+                                                  <p =
+style=3D"text-align:center;">
+                                           =
+         <span style=3D"font-size:20px;"><a href=3D"http://www.zbozizkonkur=
+zu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-=
+62070"><b>Digit&aacute;ln&iacute; bezpe&#269;nostn&iacute; trezor Smart
+ =
+                                                   Safe Box z kvalitn&iacut=
+e; oceli</b></a></span>
+                                                 =
+ </p>
+                                                  <p style=3D"text-=
+align:center;">
+                                                    &nbsp=
+;
+                                                  </p>
+              =
+                                    <p style=3D"text-align:center;">
+    =
+                                                Maloobchodn&iacute; cena: 4=
+ 839 K&#269; v&#269;. dph<br><a href=3D"http://www.zbozizkonkurzu.cz/detail=
+/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070"><span=
+ style=3D"font-size:16px;"><strong>Na&scaron;e cena: 2 289 K&#269; v&#269;.=
+ dph</strong></span></a>
+                                                =
+  </p>
+                                                  <p style=3D"text=
+-align:center;">
+                                                    <spa=
+n style=3D"font-size:16px;"><strong>U&scaron;et&#345;ete 53&nbsp;%</strong>=
+</span>
+                                                  </p>
+        =
+                                          <p style=3D"text-align:center;">=
+
+                                                    &nbsp;
+           =
+                                       </p>
+                             =
+                     <p style=3D"text-align:center;">
+                   =
+                                 <a href=3D"http://www.zbozizkonkurzu.cz/de=
+tail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070"><=
+span style=3D"font-size:20px;"><strong><span style=3D"color:#FFFFFF;">Objed=
+n&aacute;vejte zde</span></strong></span></a>
+                           =
+                       </p>
+                                             =
+     <p style=3D"text-align:center;">
+                                   =
+                 &nbsp;
+                                                 =
+ </p>
+                                                  <p style=3D"text-=
+align:center;">
+                                                    &nbsp=
+;
+                                                  </p>
+              =
+                                    <p style=3D"text-align:center;">
+    =
+                                                <a href=3D"http://www.zbozi=
+zkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni=
+-oceli-62070"><img alt=3D"" src=3D"http://www.sendik.cz/ucet/uploads/147699=
+0706.jpg" style=3D"width:600px;height:600px;float:right;"></a>
+          =
+                                        </p>
+                            =
+                      <p>
+                                               =
+     <br>
+                                                    &nbsp;
+  =
+                                                </p>
+                    =
+                              <p>
+                                       =
+             &nbsp;
+                                                  </p=
+>
+                                                  <p>
+               =
+                                     &nbsp;
+                             =
+                     </p>
+                                               =
+   <p>
+                                                    &nbsp;
+     =
+                                             </p>
+                       =
+                           <p>
+                                          =
+          &nbsp;
+                                                  </p>=
+
+                                                  <p>
+                =
+                                    &nbsp;
+                              =
+                    </p>
+                                                =
+  <p>
+                                                    &nbsp;
+      =
+                                            </p>
+                        =
+                          <p>
+                                           =
+         &nbsp;
+                                                  </p>
+=
+                                                  <p>
+                   =
+                                 &nbsp;
+                                 =
+                 </p>
+                                                  <=
+p>
+                                                    &nbsp;
+         =
+                                         </p>
+                           =
+                       <p>
+                                              =
+      &nbsp;
+                                                  </p>
+   =
+                                               <p>
+                      =
+                              ..
+                                        =
+          </p>
+                                                  <p>
+  =
+                                                  &nbsp;
+                =
+                                  </p>
+                                  =
+                <p>
+                                                    &=
+nbsp;
+                                                  </p>
+          =
+                                        <p>
+                             =
+                       <span style=3D"font-size:16px;">Trezor je vyroben z =
+velmi kvalitn&iacute; oceli, m&aacute; bezpe&#269;nostn&iacute; z&aacute;mk=
+y a vyztu&#382;en&eacute; dve&#345;e.</span>
+                            =
+                      </p>
+                                              =
+    <p>
+                                                    &nbsp;
+    =
+                                              </p>
+                      =
+                            <p>
+                                         =
+           <span style=3D"font-size:16px;">Trezor m&aacute; numerickou kl&a=
+acute;vesnici pro zad&aacute;n&iacute; bezpe&#269;nostn&iacute;ho pinu a ta=
+k&eacute; manu&aacute;ln&iacute; odemyk&aacute;n&iacute; pomoc&iacute; kl&i=
+acute;&#269;&#367;.<br><br>
+                                             =
+       Vzhledem ke sv&yacute;m rozm&#283;r&#367;m (cca 35 x 25 x 25 cm) je =
+tento kovov&yacute; bezpe&#269;nostn&iacute; trezor&nbsp;ide&aacute;ln&iacu=
+te; pro dom&aacute;c&iacute; i profesion&aacute;ln&iacute; pou&#382;it&iacu=
+te; (obchody, bary
+                                                    re=
+staurace atd.).</span>
+                                                  =
+</p>
+                                                  <p>
+            =
+                                        <br><span style=3D"font-size:16px;"=
+>Nav&iacute;c se d&aacute; p&#345;ipevnit na st&#283;nu nebo k podlaze, z&a=
+acute;le&#382;&iacute; na v&aacute;s. - &scaron;rouby jsou sou&#269;&aacute=
+;st&iacute; balen&iacute;.<br>
+                                          =
+          Trezor je vybaven vnit&#345;n&iacute; l&aacute;tkovou ochranou.</=
+span>
+                                                  </p>
+          =
+                                        <p style=3D"text-align:center;">
+=
+                                                    &nbsp;
+              =
+                                    </p>
+                                =
+                  <p style=3D"text-align:center;">
+                      =
+                              <a href=3D"http://www.zbozizkonkurzu.cz/detai=
+l/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni-oceli-62070"><spa=
+n style=3D"font-size:20px;"><strong><span style=3D"color:#FFFFFF;">Objedn&a=
+acute;vejte zde</span></strong></span></a>
+                              =
+                    </p>
+                                                =
+  <p>
+                                                    &nbsp;
+      =
+                                            </p>
+                        =
+                          <p>
+                                           =
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=3D"http://www.z=
+bozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kval=
+itni-oceli-62070"><img alt=3D"" src=3D"http://www.sendik.cz/ucet/uploads/14=
+76991010.jpg" style=3D"width:600px;height:600px;"></a>
+                  =
+                                </p>
+                                    =
+              <p>
+                                                    &nb=
+sp;
+                                                  </p>
+            =
+                                      <p>
+                               =
+                     &nbsp;
+                                             =
+     </p>
+                                                  <p>
+       =
+                                             <span style=3D"font-size:16px;=
+">Rozm&#283;ry: 34,5 x 24,5 x 22 cm.&nbsp;&nbsp;</span>
+                 =
+                                 </p>
+                                   =
+               <p>
+                                                    &n=
+bsp;
+                                                  </p>
+           =
+                                       <p>
+                              =
+                      <span style=3D"font-size:16px;">Materi&aacute;l: Vyso=
+ce kvalitn&iacute; ocel.</span>
+                                         =
+         </p>
+                                                  <p>
+   =
+                                                 <br><span style=3D"font-si=
+ze:16px;">P&#345;ibli&#382;n&aacute; hmotnost: 6,100 kg.</span>
+         =
+                                         </p>
+                           =
+                       <p>
+                                              =
+      <br><span style=3D"font-size:16px;">Sou&#269;&aacute;st&iacute; balen=
+&iacute; 4 x AA baterie.</span>
+                                         =
+         </p>
+                                                  <p>
+   =
+                                                 <br><span style=3D"font-si=
+ze:16px;">Sou&#269;&aacute;st balen&iacute; &scaron;rouby pro p&#345;ipevn&=
+#283;n&iacute; a 2 x bezpe&#269;nostn&iacute; kl&iacute;&#269;.&nbsp;</span=
+>
+                                                  </p>
+              =
+                                    <p>
+                                 =
+                   &nbsp;
+                                               =
+   </p>
+                                                  <p style=3D"tex=
+t-align:center;">
+                                                    <a =
+href=3D"http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-s=
+mart-safe-box-z-kvalitni-oceli-62070"><span style=3D"font-size:20px;"><stro=
+ng><span style=3D"color:#FFFFFF;">Objedn&aacute;vejte zde</span></strong></=
+span></a>
+                                                  </p>
+      =
+                                            <p style=3D"text-align:center;"=
+>
+                                                    &nbsp;
+          =
+                                        </p>
+                            =
+                      <p style=3D"text-align:center;">
+                  =
+                                  &nbsp;
+                                =
+                  </p>
+                                                  =
+<p>
+                                                    <a href=3D"http:/=
+/www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-=
+z-kvalitni-oceli-62070"><img alt=3D"" src=3D"http://www.sendik.cz/ucet/uplo=
+ads/1476990652.jpg" style=3D"width:600px;height:600px;"></a><br>
+        =
+                                            &nbsp;
+                      =
+                            </p>
+                                        =
+          <p>
+                                                    <span s=
+tyle=3D"font-size:16px;">Zas&iacute;l&aacute;me ve speci&aacute;ln&iacute;m=
+ ochrann&eacute;m boxu proti po&scaron;kozen&iacute;. CZ navod prikladame.<=
+/span>
+                                                  </p>
+         =
+                                         <p>
+                            =
+                        &nbsp;
+                                          =
+        </p>
+                                                  <p>
+    =
+                                                <a href=3D"http://www.zbozi=
+zkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-safe-box-z-kvalitni=
+-oceli-62070"><img alt=3D"" src=3D"http://www.sendik.cz/ucet/uploads/147699=
+0887.jpg" style=3D"width:600px;height:600px;float:left;"></a>
+           =
+                                       </p>
+                             =
+                     <p>
+                                                =
+    &nbsp;
+                                                  </p>
+     =
+                                             <p>
+                        =
+                            <br><br>
+                                    =
+                &nbsp;
+                                                  =
+</p>
+                                                  <p style=3D"text-a=
+lign:center;">
+                                                    &nbsp;=
+
+                                                  </p>
+               =
+                                   <p style=3D"text-align:right;">
+      =
+                                              &nbsp;
+                    =
+                              </p>
+                                      =
+            <p style=3D"text-align:right;">
+                             =
+                       &nbsp;
+                                           =
+       </p>
+                                                  <p style=3D=
+"text-align:right;">
+                                                    =
+&nbsp;
+                                                  </p>
+         =
+                                         <p style=3D"text-align:right;">
+=
+                                                    &nbsp;
+              =
+                                    </p>
+                                =
+                  <p style=3D"text-align:right;">
+                       =
+                             &nbsp;
+                                     =
+             </p>
+                                                  <p st=
+yle=3D"text-align:right;">
+                                              =
+      &nbsp;
+                                                  </p>
+   =
+                                               <p style=3D"text-align:right=
+;">
+                                                    &nbsp;
+        =
+                                          </p>
+                          =
+                        <p style=3D"text-align:right;">
+                 =
+                                   &nbsp;
+                               =
+                   </p>
+                                                 =
+ <p style=3D"text-align:right;">
+                                        =
+            &nbsp;
+                                                  </p>=
+
+                                                  <p style=3D"text-align=
+:right;">
+                                                    &nbsp;
+  =
+                                                </p>
+                    =
+                              <p style=3D"text-align:right;">
+           =
+                                         &nbsp;
+                         =
+                         </p>
+                                           =
+       <p style=3D"text-align:right;">
+                                  =
+                  &nbsp;
+                                                =
+  </p>
+                                                  <p style=3D"text=
+-align:right;">
+                                                    &nbsp=
+;
+                                                  </p>
+              =
+                                    <p style=3D"text-align:right;">
+     =
+                                               &nbsp;
+                   =
+                               </p>
+                                     =
+             <p style=3D"text-align:right;">
+                            =
+                        &nbsp;
+                                          =
+        </p>
+                                                  <p style=
+=3D"text-align:right;">
+                                                 =
+   &nbsp;
+                                                  </p>
+      =
+                                            <p style=3D"text-align:right;">=
+
+                                                    &nbsp;
+           =
+                                       </p>
+                             =
+                     <p style=3D"text-align:right;">
+                    =
+                                &nbsp;
+                                  =
+                </p>&nbsp;
+                                              =
+    <p style=3D"text-align:justify;">
+                                   =
+                 &nbsp;
+                                                 =
+ </p>
+                                                  <p style=3D"text-=
+align:justify;">
+                                                    &nbs=
+p;
+                                                  </p>
+             =
+                                     <p>
+                                =
+                    &nbsp;
+                                              =
+    </p>
+                                                  <p style=3D"te=
+xt-align:center;">
+                                                    <b=
+r>
+                                                    &nbsp;
+         =
+                                         </p>
+                           =
+                       <p style=3D"text-align:justify;">
+                =
+                                    &nbsp;
+                              =
+                    </p>
+                                                =
+  <p style=3D"text-align:justify;">
+                                     =
+               &nbsp;
+                                                  <=
+/p>
+                                                  <p>
+             =
+                                       &nbsp;
+                           =
+                       </p>
+                                             =
+     <p style=3D"text-align:justify;">
+                                  =
+                  &nbsp;
+                                                =
+  </p>
+                                                  <p style=3D"text=
+-align:justify;">
+                                                    &nb=
+sp;
+                                                  </p>&nbsp;
+      =
+                                            <p style=3D"text-align:justify;=
+">
+                                                    &nbsp;
+         =
+                                         </p>
+                           =
+                       <p style=3D"text-align:center;">
+                 =
+                                   P&#345;eji V&aacute;m kr&aacute;sn&yacut=
+e; den.
+                                                  </p>
+        =
+                                          <p style=3D"text-align:center;">=
+
+                                                    &nbsp;
+           =
+                                       </p>
+                             =
+                     <p style=3D"text-align:center;">
+                   =
+                                 S pozdravem
+                            =
+                      </p>
+                                              =
+    <p style=3D"text-align:center;">
+                                    =
+                &nbsp;
+                                                  =
+</p>
+                                                  <p style=3D"text-a=
+lign:center;">
+                                                    <stron=
+g>Ing. Petr Malota</strong><br>
+                                         =
+           Obchodn&iacute; &#345;editel&nbsp;
+                           =
+                       </p>
+                                             =
+     <p style=3D"text-align:center;">
+                                   =
+                 <br><br>
+                                               =
+     tel. pro objedn&aacute;vky: 840 222 840<br>
+                        =
+                            e-mail: <a href=3D"mailto:info@zbozizkonkurzu.c=
+z">info@zbozizkonkurzu.cz&nbsp;</a><br>
+                                 =
+                   web: <a href=3D"http://www.zbozizkonkurzu.cz">www.zboziZ=
+konkurzu.cz</a>
+                                                  </p>
+=
+                                                  <p style=3D"text-align:ce=
+nter;">
+                                                    &nbsp;
+    =
+                                              </p>
+                      =
+                            <p style=3D"text-align:center;">
+            =
+                                        &nbsp;
+                          =
+                        </p>
+                                            =
+      <p>
+                                                    <a href=3D"=
+http://www.zbozizkonkurzu.cz/detail/digitalni-bezpecnostni-trezor-smart-saf=
+e-box-z-kvalitni-oceli-62070"><img alt=3D"" src=3D"http://www.sendik.cz/uce=
+t/uploads/1468447429.png" style=3D"width:600px;height:89px;text-align:justi=
+fy;"></a>
+                                                  </p>
+      =
+                                          </div>
+                        =
+                      </div>
+                                            =
+</td>
+                                          </tr><tr><td height=3D"15=
+" style=3D"text-align:justify;">
+                                        =
+      &nbsp;
+                                            </td>
+        =
+                                  </tr><tr><td style=3D"text-align:justify;=
+">
+                                              &nbsp;
+               =
+                             </td>
+                                      =
+    </tr><tr><td height=3D"55">
+                                         =
+     <p style=3D"text-align:justify;">
+                                  =
+              &nbsp;
+                                              </p>=
+
+                                            </td>
+                    =
+                      </tr><tr><td align=3D"center">
+                    =
+                          <table><tbody><tr><td align=3D"center" bgcolor=3D=
+"#0032AB" style=3D"background:#0032AB;padding:15px 18px;-webkit-border-radi=
+us:4px;-moz-border-radius:4px;border-radius:4px;">
+                      =
+                                <div class=3D"contentEditableContainer cont=
+entTextEditable">
+                                                       =
+ <div class=3D"contentEditable" style=3D"text-align:justify;">
+          =
+                                                <span style=3D"font-size:20=
+px;"><strong><a href=3D"http://www.zbozizkonkurzu.cz" target=3D"_blank"><sp=
+an style=3D"color:#FFFFFF;">Kompletn&iacute; nab&iacute;dka
+             =
+                                             zde</span></a></strong></span>=
+
+                                                        </div>
+       =
+                                               </div>
+                   =
+                                 </td>
+                                  =
+                </tr></tbody></table></td>
+                              =
+            </tr><tr><td height=3D"20" style=3D"text-align:justify;">
+   =
+                                           &nbsp;
+                       =
+                     </td>
+                                          </tr=
+></tbody></table></div>
+                                    <div class=3D=
+"movableContent" style=3D"border:0px;padding-top:0px;position:relative;">=
+
+                                      <table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td height=3D"65" style=3D"=
+text-align:justify;">
+                                              &nbsp=
+;
+                                            </td>
+                   =
+                       </tr><tr><td style=3D"border-bottom:1px solid rgb(22=
+1,221,221);text-align:justify;">
+                                        =
+      &nbsp;
+                                            </td>
+        =
+                                  </tr><tr><td height=3D"25" style=3D"text-=
+align:justify;">
+                                              &nbsp;
+ =
+                                           </td>
+                        =
+                  </tr><tr><td>
+                                         =
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+><tbody><tr><td class=3D"specbundle" valign=3D"top">
+                    =
+                                  <div class=3D"contentEditableContainer co=
+ntentTextEditable">
+                                                     =
+   <div align=3D"center" class=3D"contentEditable">
+                     =
+                                     <p style=3D"color:rgb(204,204,204);fon=
+t-size:12px;line-height:20px;text-align:justify;">
+                      =
+                                      <span style=3D"font-size:10px;"><b>Ob=
+chodni sdeleni bylo zaslano na zaklade registrace dle z&aacute;kona 480/200=
+4 Sb. Rozesilatelem obchodniho
+                                          =
+                  sdeleni je marketingova agentura GlobalAdvertisement s.r.=
+o. se sidlem Nam. Pratelstvi 1518/2, Hostivar, 102 00 Praha 10, I&#268;: 25=
+3 34 697.
+                                                            Pok=
+ud si myslite, ze Vam byl e-mail zaslan omylem, podivejte se na nase strank=
+y, treba Vam nekdo chtel udelat radost. Neprejete-li si
+                 =
+                                           zasilat novinky a akce primo pro=
+ Vas muzete se <a href=3D"https://easymailjet.com/index.php/lists/eq507becj=
+w2c8/unsubscribe/gh611bsf46aa2/ex799q94tof81/unsubscribe-direct">odhlasit z=
+de.</a></b></span>
+                                                      =
+    </p>
+                                                          <p sty=
+le=3D"color:rgb(204,204,204);font-size:12px;line-height:20px;text-align:jus=
+tify;">
+                                                            &nbsp=
+;
+                                                          </p>
+      =
+                                                    <p style=3D"color:rgb(2=
+04,204,204);font-size:12px;line-height:20px;text-align:justify;">
+       =
+                                                     &nbsp;
+             =
+                                             </p>
+                       =
+                                   <p style=3D"color:rgb(204,204,204);font-=
+size:12px;line-height:20px;text-align:justify;">
+                        =
+                                    &nbsp;
+                              =
+                            </p>
+                                        =
+                </div>
+                                                  =
+    </div>
+                                                    </td>
+  =
+                                                  <td class=3D"specbundle" =
+style=3D"text-align:justify;" valign=3D"top" width=3D"30">
+              =
+                                        &nbsp;
+                          =
+                          </td>
+                                         =
+           <td class=3D"specbundle" valign=3D"top">
+                     =
+                                 <table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%"><tbody><tr><td valign=3D"top" width=3D"52">
+=
+                                                              <div class=3D=
+"contentEditableContainer contentFacebookEditable">
+                     =
+                                           <div class=3D"contentEditable" s=
+tyle=3D"text-align:justify;">
+                                           =
+                       &nbsp;
+                                           =
+                     </div>
+                                             =
+                 </div>
+                                                 =
+           </td>
+                                                        =
+    <td style=3D"text-align:justify;" valign=3D"top" width=3D"16">
+      =
+                                                        &nbsp;
+          =
+                                                  </td>
+                 =
+                                           <td valign=3D"top" width=3D"52">=
+
+                                                              <div class=
+=3D"contentEditableContainer contentTwitterEditable">
+                   =
+                                             <div class=3D"contentEditable"=
+ style=3D"text-align:justify;">
+                                         =
+                         &nbsp;
+                                         =
+                       </div>
+                                           =
+                   </div>
+                                               =
+             </td>
+                                                      =
+    </tr></tbody></table></td>
+                                          =
+        </tr></tbody></table></td>
+                                      =
+    </tr><tr><td height=3D"88" style=3D"text-align:justify;">
+           =
+                                   &nbsp;
+                               =
+             </td>
+                                          </tr></tbody=
+></table></div>
+                                    <p style=3D"text-alig=
+n:justify;">
+                                      <!-- =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D footer =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D -->
+                 =
+                   </p>
+                                  </td>
+       =
+                         </tr></tbody></table></td>
+                     =
+     <td style=3D"text-align:justify;" valign=3D"top" width=3D"40">
+     =
+                       &nbsp;
+                          </td>
+         =
+               </tr></tbody></table></td>
+                </tr></tbody></=
+table></td>
+        </tr></tbody></table><img width=3D"1" height=3D"1" sr=
+c=3D"https://easymailjet.com/index.php/campaigns/ex799q94tof81/track-openin=
+g/gh611bsf46aa2" alt=3D"" />
+</body></html>
+
+
+--_=_swift_v4_1493083285_56c8333213f934804d872a1c25d3be42_=_--

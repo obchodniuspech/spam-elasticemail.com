@@ -1,0 +1,627 @@
+Return-Path: <0102015d0b2bf4d1-aef75db3-5a7a-4cb4-b4f6-f95a443b8c77-000000@eu-west-1.amazonses.com>
+Delivered-To: michal@obchodniuspech.cz
+Received: from mx.mastered-monkey.com (mail.mastered-monkey.com [127.0.0.1])
+	by mx.mastered-monkey.com (Postfix) with ESMTP id E562D4C2B2
+	for <michal@obchodniuspech.cz>; Tue,  4 Jul 2017 03:17:15 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mx.mastered-monkey.com
+Authentication-Results: mx.mastered-monkey.com (amavisd-new);
+	dkim=pass (1024-bit key) header.d=sunkajabugo.cz header.b=U6L8ULeB;
+	dkim=pass (1024-bit key) header.d=amazonses.com header.b=DvWXVvC1
+Received: from mx.mastered-monkey.com ([127.0.0.1])
+	by mx.mastered-monkey.com (mx.mastered-monkey.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SvftcJWgDlut for <michal@obchodniuspech.cz>;
+	Tue,  4 Jul 2017 03:16:58 +0200 (CEST)
+Received: from a6-136.smtp-out.eu-west-1.amazonses.com (a6-136.smtp-out.eu-west-1.amazonses.com [54.240.6.136])
+	by mx.mastered-monkey.com (Postfix) with ESMTPS id 66ABB4C2AC
+	for <michal@obchodniuspech.cz>; Tue,  4 Jul 2017 03:16:57 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=iznaegy4jfxchzactjdxi6muqzfxog3b; d=sunkajabugo.cz; t=1499131016;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type;
+	bh=wFVLZyqRgc+2KBQGMWb91EWVWGZAXw/AFnj8zFtEVMo=;
+	b=U6L8ULeB2++SBkD+DMUD9iWZzcPtT4a1YKSsSIW+4aWNTipxCatHea9FAaJXQTvi
+	UyW5qdYaeBIBK+8qi5d8JXrwEuxuU9wqOqsz1djGdz4CEauoO+JpAzc4XtGmGmER1NG
+	c3kQ6QN8LVQyTvV+sfwpnWYbI/12sOKUOqcq+hHg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1499131016;
+	h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:Feedback-ID;
+	bh=wFVLZyqRgc+2KBQGMWb91EWVWGZAXw/AFnj8zFtEVMo=;
+	b=DvWXVvC1YkSpQ+sqdci+5NLIZdgxH1O69jMAxarwKFyXCchD+L5u6DfFHvLEXsN7
+	wldHmPtZJFD5HaOdKE6LgbvTQqqH2txPaVkHbH7EATOUmvWywyDRxK5E1tn0DjQOMi3
+	M8l1QrpNyqMEQkiTdDhF0DNTZ3PW5Bk/pPV9MJZY=
+Message-ID: <0102015d0b2bf4d1-aef75db3-5a7a-4cb4-b4f6-f95a443b8c77-000000@eu-west-1.amazonses.com>
+Date: Tue, 4 Jul 2017 01:16:56 +0000
+Subject: =?utf-8?Q?Poj=C4=8Fme?= si
+ =?utf-8?Q?po=C5=99=C3=A1dn=C4=9B_za=C5=A1unkat?=
+From: Jabugo <info@sunkajabugo.cz>
+Reply-To: Jabugo <info@sunkajabugo.cz>
+To: "michal@obchodniuspech.cz" <michal@obchodniuspech.cz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1499131016_d7c8775e5616b6056fcebfe258dae08f_=_"
+X-Sender: info@sunkajabugo.cz
+X-Receiver: michal@obchodniuspech.cz
+X-Mw-Subscriber-Uid: nq387xf7mo425
+X-Mw-Mailer: SwiftMailer - @SWIFT_VERSION_NUMBER@
+X-Mw-Campaign-Uid: ar508yb54y568
+X-SES-Outgoing: 2017.07.04-54.240.6.136
+Feedback-ID: 1.eu-west-1.AuUj8PXgNNllhZIHK1m3NmQDOw3p3uI2lVD1UHbdU4w=:AmazonSES
+
+
+--_=_swift_v4_1499131016_d7c8775e5616b6056fcebfe258dae08f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+=09=09 http://www.sunkajabugo.cz/=20
+
+ =E2=80=8B=20
+
+ NAB=C3=
+=8DDKA=E2=80=8B HTTP://WWW.SUNKAJABUGO.CZ/=20
+
+=E2=80=8B=20
+
+ P=C5=
+=AEVOD HTTP://WWW.SUNKAJABUGO.CZ/=20
+
+ TIPY HTTP://WWW.SUNKAJABUGO.CZ/ =
+
+
+ KONTAKT HTTP://WWW.SUNKAJABUGO.CZ/=20
+
+ =C5=A0unkobran=C3=AD - Sle=
+va 1 200 K=C4=8D / ks
+Ochutnejte zde http://www.sunkajabugo.cz/=20
+
+=09=
+=09 http://www.sunkajabugo.cz/=20
+
+=09=09 http://www.sunkajabugo.cz/=20
+=
+
+ =C5=A0pan=C4=9Blsk=C3=A1 =C5=A1unka od farm=C3=A1=C5=99=C5=AF a=C5=
+=BE k V=C3=A1m
+http://www.sunkajabugo.cz/=20
+
+ Doba zr=C3=A1n=C3=AD 12 =
+- 15 m=C4=9Bs=C3=ADc=C5=AF=20
+
+ D=C3=A9lka 60 - 70 cm=20
+
+=09=09 Objedn=
+=C3=A1vejte zde http://www.sunkajabugo.cz/=20
+
+=09=09 http://www.sunkajab=
+ugo.cz/=20
+
+ =C5=A0pan=C4=9Blsk=C3=A1 =C5=A1unka p=C5=99=C3=ADmo od farm=
+=C3=A1=C5=99=C5=AF se slevou 1 200 K=C4=8D.=20
+
+ Sleva plat=C3=AD pouze 2=
+4 hodin.=20
+
+=09=09 Ochutnejte zde http://www.sunkajabugo.cz/=20
+
+=09=
+=09 http://www.sunkajabugo.cz=20
+
+=09=09 http://www.sunkajabugo.cz=20
+
+=
+ Tento e-mail byl zasl=C3=A1n marketingovou agenturou GlobalAdvertisement,=
+
+s.r.o. se s=C3=ADdlem n. P=C5=99=C3=A1telstv=C3=AD 1518/2, Praha - Hosti=
+va=C5=99, 102 00,
+I=C4=8C: 253 34 697, Dle z=C3=A1kona 480/2004 Sb. o obc=
+hodn=C3=ADm sd=C4=9Blen=C3=AD.
+Nep=C5=99ejete-li si dost=C3=A1vat tyto e-=
+maily, odhla=C5=A1te se zde
+https://easymailjet.com/index.php/lists/rj001=
+d3w7jf0b/unsubscribe/nq387xf7mo425/ar508yb54y568/unsubscribe-direct
+
+=
+
+=20
+
+--_=_swift_v4_1499131016_d7c8775e5616b6056fcebfe258dae08f_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xht=
+ml" style=3D""><head><meta name=3D"viewport" content=3D"width=3Ddevice-widt=
+h"><meta name=3D"charset" content=3D"utf-8">
+<style type=3D"text/css">
+=
+/**/
+    /**/
+    /**/
+    /**/
+    /**/
+    /**/
+    /**/
+  =
+  /**/
+    /**/
+    /**/
+    /**/
+    /**/
+    /**/
+    /**/
+=
+    body, html {
+      width: 100% !important;
+      margin: 0;
+     =
+ padding: 0;
+      -webkit-font-smoothing: antialiased;
+      -webkit-t=
+ext-size-adjust: none;
+      -ms-text-size-adjust: 100%;
+    }
+      =
+table td, table {
+        mso-table-lspace: 0pt;
+        mso-table-rspa=
+ce: 0pt;
+      }
+      #outlook a {
+        padding: 0;
+      }
+ =
+     .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass =
+font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;=
+
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+    =
+  @media only screen and (max-width: 480px) {
+        table, table tr td,=
+ table td {
+          width: 100% !important;
+        }
+        img {=
+
+          width: inherit;
+        }
+        .layer_2 {
+          m=
+ax-width: 100% !important;
+        }
+      }
+    /*]]>*/
+    /*]]>*=
+/
+    /*]]>*/
+    /*]]>*/
+    /*]]>*/
+    /*]]>*/
+    /*]]>*/
+ =
+   /*]]>*/
+    /*]]>*/
+    /*]]>*/
+    /*]]>*/
+    /*]]>*/
+    /*=
+]]>*/
+    /*]]>*/
+</style>
+<title></title></head><body style=3D"paddi=
+ng: 0px; margin: 0px;">
+
+            <table align=3D"center" style=3D"w=
+idth:100%;height:100%;background-color:#efefef;"><tbody><tr><td id=3D"dbody=
+" style=3D"padding-top:30px;padding-bottom:30px;background-color:#efefef;wi=
+dth:100%;" valign=3D"top">
+            <!--[if (gte mso 9)|(IE)]><table s=
+tyle=3D"width:600px" width=3D"600" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td><![endif]-->
+            <table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"layer=
+_1" style=3D"max-width:600px;width:100%;"><tbody><tr><td align=3D"center" c=
+lass=3D"drow" style=3D"font-size:0px;text-align:center;background-color:#ff=
+ffff;" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><tab=
+le width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" =
+style=3D"display:inline-block;vertical-align:top;width:100%;max-width:600px=
+;">
+                      <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"=
+><tbody><tr><td class=3D"edimg" style=3D"text-align:center;" valign=3D"top"=
+>
+                              <a href=3D"http://www.sunkajabugo.cz/" st=
+yle=3D"color:#828282;font-size:12px;font-family:'Trebuchet MS', Helvetica, =
+sans-serif;text-decoration:none;"><img alt=3D"Jabugo Logo" src=3D"https://e=
+asymailjet.com/obr/sunka/jabugo_logo.png" style=3D"border-width:0px;border-=
+style:none;width:150px;height:71px;"></a>
+                            </t=
+d>
+                          </tr></tbody></table></div><!--[if (gte mso =
+9)|(IE)]></td></tr></table><![endif]-->
+                  </td>
+       =
+         </tr><tr><td align=3D"center" class=3D"drow" style=3D"font-size:0p=
+x;text-align:center;background-color:#ffffff;" valign=3D"top">
+          =
+          <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=3D"center" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->
+   =
+                 <div class=3D"layer_2" style=3D"display:inline-block;verti=
+cal-align:top;width:100%;max-width:150px;">
+                      <span c=
+lass=3D"elastictext-selection-marker" id=3D"selection-marker-1">&#8203;</sp=
+an>
+                      <table border=3D"0" cellpadding=3D"48" cellspac=
+ing=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;=
+"><tbody><tr><td class=3D"edtext" style=3D"text-align:left;color:#5f5f5f;fo=
+nt-size:12px;font-family:Helvetica, Arial, sans-serif;" valign=3D"top">
+ =
+                             <p style=3D"margin:0px;padding:0px;">
+      =
+                          <strong><a href=3D"http://www.sunkajabugo.cz/" st=
+yle=3D"color:#828282;font-size:12px;font-family:'Trebuchet MS', Helvetica, =
+sans-serif;text-decoration:none;">NAB&Iacute;DKA&#8203;</a></strong>
+    =
+                          </p>
+                            </td>
+      =
+                    </tr></tbody></table><span class=3D"elastictext-selecti=
+on-marker" id=3D"selection-marker-2">&#8203;</span>
+                    <=
+/div><!--[if (gte mso 9)|(IE)]></td><td><![endif]-->
+                    =
+<div class=3D"layer_2" style=3D"display:inline-block;vertical-align:top;wid=
+th:100%;max-width:150px;">
+                      <table border=3D"0" cell=
+padding=3D"48" cellspacing=3D"0" class=3D"edcontent" style=3D"border-collap=
+se:collapse;width:100%;"><tbody><tr><td class=3D"edtext" style=3D"text-alig=
+n:left;color:#5f5f5f;font-size:12px;font-family:Helvetica, Arial, sans-seri=
+f;" valign=3D"top">
+                              <p style=3D"margin:0px;=
+padding:0px;">
+                                <strong><a href=3D"http://=
+www.sunkajabugo.cz/" style=3D"color:#828282;font-size:12px;font-family:'Tre=
+buchet MS', Helvetica, sans-serif;text-decoration:none;">P&#366;VOD</a></st=
+rong>
+                              </p>
+                            </=
+td>
+                          </tr></tbody></table></div><!--[if (gte mso=
+ 9)|(IE)]></td><td><![endif]-->
+                    <div class=3D"layer_2=
+" style=3D"display:inline-block;vertical-align:top;width:100%;max-width:150=
+px;">
+                      <table border=3D"0" cellpadding=3D"48" cellsp=
+acing=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100=
+%;"><tbody><tr><td class=3D"edtext" style=3D"text-align:left;color:#5f5f5f;=
+font-size:12px;font-family:Helvetica, Arial, sans-serif;" valign=3D"top">=
+
+                              <p style=3D"margin:0px;padding:0px;">
+  =
+                              <strong><a href=3D"http://www.sunkajabugo.cz/=
+" style=3D"color:#828282;font-size:12px;font-family:'Trebuchet MS', Helveti=
+ca, sans-serif;text-decoration:none;">TIPY</a></strong>
+                 =
+             </p>
+                            </td>
+                   =
+       </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td><td><![end=
+if]-->
+                    <div class=3D"layer_2" style=3D"display:inline=
+-block;vertical-align:top;width:100%;max-width:150px;">
+                 =
+     <table border=3D"0" cellpadding=3D"48" cellspacing=3D"0" class=3D"edco=
+ntent" style=3D"border-collapse:collapse;width:100%;"><tbody><tr><td class=
+=3D"edtext" style=3D"text-align:left;color:#5f5f5f;font-size:12px;font-fami=
+ly:Helvetica, Arial, sans-serif;" valign=3D"top">
+                       =
+       <p style=3D"margin:0px;padding:0px;">
+                            =
+    <strong><a href=3D"http://www.sunkajabugo.cz/" style=3D"color:#828282;f=
+ont-size:12px;font-family:'Trebuchet MS', Helvetica, sans-serif;text-decora=
+tion:none;">KONTAKT</a></strong>
+                              </p>
+   =
+                         </td>
+                          </tr></tbody></t=
+able></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+     =
+             </td>
+                </tr><tr><td align=3D"center" class=3D=
+"drow" style=3D"font-size:0px;text-align:center;background-color:#ffffff;" =
+valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><table widt=
+h=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+"><tr><td><![endif]-->
+                    <div class=3D"layer_2" style=
+=3D"display:inline-block;vertical-align:top;width:100%;max-width:600px;">=
+
+                      <table border=3D"0" cellpadding=3D"20" cellspacing=
+=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"><=
+tbody><tr><td class=3D"edtext" style=3D"text-align:left;color:#5f5f5f;font-=
+size:12px;font-family:Helvetica, Arial, sans-serif;" valign=3D"top">
+    =
+                          <p style=3D"margin:0px;padding:0px;text-align:cen=
+ter;font-size:9px;">
+                                <strong><span style=
+=3D"font-size:28px;">&Scaron;unkobran&iacute; - Sleva 1 200 K&#269; / ks<br=
+><a href=3D"http://www.sunkajabugo.cz/" style=3D"color:#828282;font-size:12=
+px;font-family:'Trebuchet MS', Helvetica, sans-serif;text-decoration:none;"=
+><span style=3D"font-size:24px;">Ochutnejte zde</span></a></span></strong>=
+
+                              </p>
+                            </td>=
+
+                          </tr></tbody></table></div><!--[if (gte mso 9)=
+|(IE)]></td></tr></table><![endif]-->
+                  </td>
+         =
+       </tr><tr><td align=3D"center" class=3D"drow" style=3D"font-size:0px;=
+text-align:center;background-color:#ffffff;" valign=3D"top">
+            =
+        <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->
+     =
+               <div class=3D"layer_2" style=3D"display:inline-block;vertica=
+l-align:top;width:100%;max-width:600px;">
+                      <table bo=
+rder=3D"0" cellpadding=3D"5" cellspacing=3D"0" class=3D"edcontent" style=3D=
+"border-collapse:collapse;width:100%;"><tbody><tr><td class=3D"edimg" style=
+=3D"text-align:center;" valign=3D"top">
+                              <a =
+href=3D"http://www.sunkajabugo.cz/" style=3D"color:#828282;font-size:12px;f=
+ont-family:'Trebuchet MS', Helvetica, sans-serif;text-decoration:none;"><im=
+g alt=3D"&Scaron;unkobran&iacute;" src=3D"https://api.elasticemail.com/user=
+file/6825c7f2-1363-466e-a4b7-9293b5d85d5f/news_5.jpg" style=3D"border-width=
+:0px;border-style:none;max-width:590px;width:100%;" width=3D"590"></a>
+  =
+                          </td>
+                          </tr></tbody></=
+table></div><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+    =
+              </td>
+                </tr><tr><td align=3D"center" class=
+=3D"drow" style=3D"font-size:0px;text-align:center;background-color:#ffffff=
+;" valign=3D"top">
+                    <!--[if (gte mso 9)|(IE)]><table w=
+idth=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td><![endif]-->
+                    <div class=3D"layer_2" st=
+yle=3D"display:inline-block;vertical-align:top;width:100%;max-width:300px;"=
+>
+                      <table border=3D"0" cellpadding=3D"5" cellspacing=
+=3D"0" class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"><=
+tbody><tr><td class=3D"edimg" style=3D"text-align:center;" valign=3D"top">=
+
+                              <a href=3D"http://www.sunkajabugo.cz/" sty=
+le=3D"color:#828282;font-size:12px;font-family:'Trebuchet MS', Helvetica, s=
+ans-serif;text-decoration:none;"><img alt=3D"Paleta" src=3D"https://api.ela=
+sticemail.com/userfile/6825c7f2-1363-466e-a4b7-9293b5d85d5f/news_6.jpg" sty=
+le=3D"border-width:0px;border-style:none;max-width:190px;width:100%;" width=
+=3D"190"></a>
+                            </td>
+                       =
+   </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td><td><![endif]-=
+->
+                    <div class=3D"layer_2" style=3D"display:inline-blo=
+ck;vertical-align:top;width:100%;max-width:300px;">
+                     =
+ <table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"edconten=
+t" style=3D"border-collapse:collapse;width:100%;"><tbody><tr><td class=3D"e=
+dtext" style=3D"text-align:left;color:#5f5f5f;font-size:12px;font-family:He=
+lvetica, Arial, sans-serif;" valign=3D"top">
+                            =
+  <p style=3D"margin:0px;padding:0px;text-align:center;">
+               =
+                 <a href=3D"http://www.sunkajabugo.cz/" style=3D"color:#828=
+282;font-size:12px;font-family:'Trebuchet MS', Helvetica, sans-serif;text-d=
+ecoration:none;"><span style=3D"font-size:20px;">&Scaron;pan&#283;lsk&aacut=
+e; &scaron;unka od farm&aacute;&#345;&#367; a&#382; k V&aacute;m</span></a>=
+
+                              </p>
+                              <p st=
+yle=3D"margin:0px;padding:0px;text-align:center;">
+                      =
+          &nbsp;
+                              </p>
+                   =
+           <p style=3D"margin:0px;padding:0px;text-align:center;">
+      =
+                          &nbsp;
+                              </p>
+   =
+                           <p style=3D"margin:0px;padding:0px;text-align:ce=
+nter;">
+                                Doba zr&aacute;n&iacute; 12 - 15 =
+m&#283;s&iacute;c&#367;
+                              </p>
+            =
+                  <p style=3D"margin:0px;padding:0px;text-align:center;">=
+
+                                D&eacute;lka 60 - 70 cm
+              =
+                </p>
+                            </td>
+                =
+          </tr><tr><td class=3D"edbutton" valign=3D"top">
+               =
+               <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"height:42px;text-align:center;" width=3D"149"><tbody><tr><td align=
+=3D"center" height=3D"18" style=3D"background:#ffbd4a;border-radius:4px;pad=
+ding:12px;" width=3D"125">
+                                      <a href=
+=3D"http://www.sunkajabugo.cz/" style=3D"color:#ffffff;font-size:16px;font-=
+family:Helvetica, Arial, sans-serif;text-decoration:none;font-weight:normal=
+;width:100%;display:inline-block;" target=3D"_blank"><span style=3D"color:#=
+ffffff;">Objedn&aacute;vejte zde</span></a>
+                             =
+       </td>
+                                  </tr></tbody></table></td>=
+
+                          </tr></tbody></table></div><!--[if (gte mso 9)=
+|(IE)]></td></tr></table><![endif]-->
+                  </td>
+         =
+       </tr><tr><td align=3D"center" class=3D"drow" style=3D"font-size:0px;=
+text-align:center;background-color:#ffffff;" valign=3D"top">
+            =
+        <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->
+     =
+               <div class=3D"layer_2" style=3D"display:inline-block;vertica=
+l-align:top;width:100%;max-width:600px;">
+                      <table bo=
+rder=3D"0" cellpadding=3D"5" cellspacing=3D"0" class=3D"edcontent" style=3D=
+"border-collapse:collapse;width:100%;"><tbody><tr><td class=3D"edimg" style=
+=3D"text-align:center;" valign=3D"top">
+                              <a =
+href=3D"http://www.sunkajabugo.cz/" style=3D"color:#828282;font-size:12px;f=
+ont-family:'Trebuchet MS', Helvetica, sans-serif;text-decoration:none;"><im=
+g alt=3D"SET" src=3D"https://api.elasticemail.com/userfile/6825c7f2-1363-46=
+6e-a4b7-9293b5d85d5f/news_7.jpg" style=3D"border-width:0px;border-style:non=
+e;max-width:590px;width:100%;" width=3D"590"></a>
+                       =
+     </td>
+                          </tr></tbody></table></div><!--[if (=
+gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                  </td>=
+
+                </tr><tr><td align=3D"center" class=3D"drow" style=3D"fo=
+nt-size:0px;text-align:center;background-color:#ffffff;" valign=3D"top">
+=
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![end=
+if]-->
+                    <div class=3D"layer_2" style=3D"display:inline=
+-block;vertical-align:top;width:100%;max-width:600px;">
+                 =
+     <table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"edco=
+ntent" style=3D"border-collapse:collapse;width:100%;"><tbody><tr><td class=
+=3D"edtext" style=3D"text-align:left;color:#5f5f5f;font-size:12px;font-fami=
+ly:Helvetica, Arial, sans-serif;" valign=3D"top">
+                       =
+       <p style=3D"margin:0px;padding:0px;">
+                            =
+    <span style=3D"font-size:20px;">&Scaron;pan&#283;lsk&aacute; &scaron;un=
+ka p&#345;&iacute;mo od farm&aacute;&#345;&#367; se slevou 1 200 K&#269;.</=
+span>
+                              </p>
+                              =
+<p style=3D"margin:0px;padding:0px;text-align:center;">
+                 =
+               <span style=3D"font-size:20px;">Sleva plat&iacute; pouze 24 =
+hodin.</span>
+                              </p>
+                      =
+      </td>
+                          </tr><tr><td class=3D"edbutton" val=
+ign=3D"top">
+                              <table align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"height:42px;text-align:center;" widt=
+h=3D"132"><tbody><tr><td align=3D"center" height=3D"18" style=3D"background=
+:#ffbd4a;border-radius:4px;padding:12px;" width=3D"108">
+                =
+                      <a href=3D"http://www.sunkajabugo.cz/" style=3D"color=
+:#ffffff;font-size:16px;font-family:Helvetica, Arial, sans-serif;text-decor=
+ation:none;font-weight:normal;width:100%;display:inline-block;" target=3D"_=
+blank"><span style=3D"color:#ffffff;">Ochutnejte zde</span></a>
+         =
+                           </td>
+                                  </tr><=
+/tbody></table></td>
+                          </tr></tbody></table></div=
+><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+               =
+   </td>
+                </tr><tr><td align=3D"center" class=3D"drow" sty=
+le=3D"font-size:0px;text-align:center;background-color:#ffffff;" valign=3D"=
+top">
+                    <!--[if (gte mso 9)|(IE)]><table width=3D"100%"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td>=
+<![endif]-->
+                    <div class=3D"layer_2" style=3D"display:=
+inline-block;vertical-align:top;width:100%;max-width:300px;">
+           =
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" class=3D=
+"edcontent" style=3D"border-collapse:collapse;width:100%;"><tbody><tr><td c=
+lass=3D"edimg" style=3D"text-align:center;" valign=3D"top">
+             =
+                 <a href=3D"http://www.sunkajabugo.cz" style=3D"color:#8282=
+82;font-size:12px;font-family:'Trebuchet MS', Helvetica, sans-serif;text-de=
+coration:none;"><img alt=3D"M&#367;&#382;u v&#345;ele doporu&#269;it!" src=
+=3D"https://api.elasticemail.com/userfile/6825c7f2-1363-466e-a4b7-9293b5d85=
+d5f/news_3.jpg" style=3D"border-width:0px;border-style:none;max-width:290px=
+;width:100%;" width=3D"290"></a>
+                            </td>
+    =
+                      </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]>=
+</td><td><![endif]-->
+                    <div class=3D"layer_2" style=3D=
+"display:inline-block;vertical-align:top;width:100%;max-width:300px;">
+  =
+                    <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0"=
+ class=3D"edcontent" style=3D"border-collapse:collapse;width:100%;"><tbody>=
+<tr><td class=3D"edimg" style=3D"text-align:center;" valign=3D"top">
+    =
+                          <a href=3D"http://www.sunkajabugo.cz" style=3D"co=
+lor:#828282;font-size:12px;font-family:'Trebuchet MS', Helvetica, sans-seri=
+f;text-decoration:none;"><img alt=3D"Ochutn&aacute;te s n&aacute;mi?" src=
+=3D"https://api.elasticemail.com/userfile/6825c7f2-1363-466e-a4b7-9293b5d85=
+d5f/news_2.jpg" style=3D"border-width:0px;border-style:none;max-width:290px=
+;width:100%;" width=3D"290"></a>
+                            </td>
+    =
+                      </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]>=
+</td></tr></table><![endif]-->
+                  </td>
+                =
+</tr><tr><td align=3D"center" class=3D"drow" style=3D"font-size:0px;text-al=
+ign:center;background-color:#ffffff;" valign=3D"top">
+                   =
+ <!--[if (gte mso 9)|(IE)]><table width=3D"100%" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->
+            =
+        <div class=3D"layer_2" style=3D"display:inline-block;vertical-align=
+:top;width:100%;max-width:600px;">
+                      <table border=3D=
+"0" cellpadding=3D"10" cellspacing=3D"0" class=3D"edcontent" style=3D"borde=
+r-collapse:collapse;width:100%;"><tbody><tr><td class=3D"edtext" style=3D"t=
+ext-align:left;color:#5f5f5f;font-size:12px;font-family:Helvetica, Arial, s=
+ans-serif;" valign=3D"middle">
+                              <p style=3D"=
+margin:0px;padding:0px;text-align:center;font-size:11px;">
+              =
+                  Tento e-mail byl zasl&aacute;n marketingovou agenturou Gl=
+obalAdvertisement, s.r.o. se s&iacute;dlem n. P&#345;&aacute;telstv&iacute;=
+ 1518/2, Praha - Hostiva&#345;, 102 00, I&#268;: 253 34 697, Dle z&aacute;k=
+ona
+                                480/2004 Sb. o obchodn&iacute;m sd&#2=
+83;len&iacute;. Nep&#345;ejete-li si dost&aacute;vat tyto e-maily, <a href=
+=3D"https://easymailjet.com/index.php/lists/rj001d3w7jf0b/unsubscribe/nq387=
+xf7mo425/ar508yb54y568/unsubscribe-direct">odhla&scaron;te se zde</a>
+   =
+                           </p>
+                            </td>
+     =
+                     </tr></tbody></table></div><!--[if (gte mso 9)|(IE)]><=
+/td></tr></table><![endif]-->
+                  </td>
+                <=
+/tr></tbody></table><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--=
+>
+          </td>
+        </tr></tbody></table><img width=3D"1" height=
+=3D"1" src=3D"https://easymailjet.com/index.php/campaigns/ar508yb54y568/tra=
+ck-opening/nq387xf7mo425" alt=3D"" />
+</body></html>
+
+
+--_=_swift_v4_1499131016_d7c8775e5616b6056fcebfe258dae08f_=_--
